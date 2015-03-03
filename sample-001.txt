@@ -1,0 +1,49 @@
+{
+  "number": "70-412",
+  "passingScore": 20,
+  "timeLimit": 4,
+  "version": "14.5",
+  "name": "Administering Windows Server 2012 2",
+  "date": "2014-05-01",
+  "url": "https://www.microsoft.com/learning/en-gb/exam-70-411.aspx",
+  "scorePerQuestion": 40,
+  "description": "**Skills measured**\r\n\r\nThis exam measures your ability to accomplish the technical tasks listed below. The percentages indicate the relative weight of each major topic area in the exam. The higher the percentage, the more questions you are likely to see on that content area in the exam.\r\n\r\nPlease note that the questions may test on, but will not be limited to, the topics described in the bulleted text.\r\n\r\n**As of January 2014, this exam includes** *content covering Windows Server 2012 R2.*\r\n\r\n",
+  "questions": [
+    {
+      "level": 100,
+      "section": "misc",
+      "type": "mcq",
+      "answerMode": "single",
+      "question": "![Teddy](http://ts1.mm.bing.net/th?&id=HN.608041110440905276&w=300&h=300&c=0&pid=1.9&rs=0&p=0)\r\n\r\nYour network contains an Active Directory domain named contoso.com. The domain contains a server named Server1 that runs Windows Server 2012 R2.\r\n\r\nServer1 has the following role services installed:\r\n\r\n- DirectAccess and VPN (RRAS)\r\n- Network Policy Server\r\n\r\nRemote users have client computers that run either Windows XP, Windows 7, or Windows 8.\r\n\r\nYou need to ensure that only the client computers that run Windows 7 or Windows 8 can establish VPN\r\nconnections to Server1.\r\n\r\nWhat should you configure on Server1?\r\n",
+      "options": [
+        "A condition of a Network Policy Server (NPS) network policy",
+        "A constraint of a Network Policy Server (NPS) network policy",
+        "A condition of a Network Policy Server (NPS) connection request policy",
+        "A vendor-specific RADIUS attribute of a Network Policy Server (NPS) connection request policy"
+      ],
+      "answer": [
+        "C"
+      ],
+      "reference": "",
+      "explanation": "In the beginning was the word. Goodness if you want any more explanation then you could consider getting a new profession"
+    },
+    {
+      "level": 100,
+      "section": "misc",
+      "type": "mcq",
+      "answerMode": "single",
+      "question": "You are a network administrator of an Active Directory domain named contoso.com.\r\n\r\nYou have a server named Server1 that runs Windows Server 2012 R2. Server1 has the DHCP Server server role and the Network Policy Server role service installed.\r\n\r\nYou enable Network Access Protection (NAP) on all of the DHCP scopes on Server1.\r\n\r\nYou need to create a DHCP policy that will apply to all of the NAP non-compliant DHCP clients.\r\n\r\nWhich criteria should you specify when you create the DHCP policy?",
+      "options": [
+        "xA condition of a Network Policy Server (NPS) network policy",
+        "xA constraint of a Network Policy Server (NPS) network policy",
+        "xA condition of a Network Policy Server (NPS) connection request policy",
+        "xA vendor-specific RADIUS attribute of a Network Policy Server (NPS) connection request policy"
+      ],
+      "answer": [
+        "B"
+      ],
+      "reference": "",
+      "explanation": "Imagine I'm giving you some wonderful explanation that will make you understand the world"
+    }
+  ]
+}
