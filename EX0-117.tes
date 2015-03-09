@@ -11,11 +11,11 @@
   "scopes": [
     {
       "name": "Default",
-      "questions": 20,
+      "questions": 40,
       "scorePerQuestion": 1.0,
-      "passCount": 15,
-      "passScore": 15.0,
-      "timeLimit": 5
+      "passCount": 26,
+      "passScore": 0,
+      "timeLimit": 60
     }
   ],
   "questions": [
