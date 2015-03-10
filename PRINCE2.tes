@@ -31,7 +31,7 @@
         "End Stage Approval",
         "Project Brief"
       ],
-      "question": "In PRINCE2 what product is used to define the information that justifies the setting up,<br/>continuation or termination of the project?",
+      "question": "In PRINCE2 what product is used to define the information that justifies the setting up,\r\ncontinuation or termination of the project?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -85,7 +85,7 @@
         "The Project Plan",
         "A specified Business Case"
       ],
-      "question": "FilL in the missing phrase from\" a project is a management environment that is created<br/>for the purpose of delivering one or more business products according to......\"",
+      "question": "FilL in the missing phrase from\" a project is a management environment that is created\r\nfor the purpose of delivering one or more business products according to......\"",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -103,7 +103,7 @@
         "c, a, b",
         "c, b, a"
       ],
-      "question": "In what sequence would the (a) Project Initiation Document, (b) the Project Mandate<br/>and (c) the Project Brief appear in a PRINCE2 project?",
+      "question": "In what sequence would the (a) Project Initiation Document, (b) the Project Mandate\r\nand (c) the Project Brief appear in a PRINCE2 project?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -119,7 +119,7 @@
         "When a Project Issue is received",
         "When a Project Board member raises a complaint",
         "When a Request For Change or Off-Specification has been received",
-        "When the current forecasts for the end of the stage deviate beyond the delegated<br/><br/>    tolerance bounds"
+        "When the current forecasts for the end of the stage deviate beyond the delegated\r\n\r\n    tolerance bounds"
       ],
       "question": "Which would require the production of an Exception Report?",
       "level": "100",
@@ -139,7 +139,7 @@
         "provides the opportunity to evaluate achievement of all the expected benefits",
         "is always more successful than the natural tendency to drift into operational Management"
       ],
-      "question": "Which statement is NOT a fundamental principle of\" Closing a Project\"? \"A clear end<br/>to a project\"�",
+      "question": "Which statement is NOT a fundamental principle of\" Closing a Project\"? \"A clear end\r\nto a project\"�",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -193,7 +193,7 @@
         "Concession",
         "Tolerance"
       ],
-      "question": "What name is given to the permissible deviation from a plan allowed without immediate reporting to the Project<br/>Board?",
+      "question": "What name is given to the permissible deviation from a plan allowed without immediate reporting to the Project\r\nBoard?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -265,7 +265,7 @@
         "An Exception Memo is raised",
         "The review is reconvened"
       ],
-      "question": "If, after a Quality Review Follow-up Action, an error is still not resolved, what action<br/>should be taken?",
+      "question": "If, after a Quality Review Follow-up Action, an error is still not resolved, what action\r\nshould be taken?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -319,7 +319,7 @@
         "Checkpoint Report",
         "Configuration Management"
       ],
-      "question": "Which feature of PRINCE2 tells the Project Manager where a product is, what its status is and who is working<br/>on it?",
+      "question": "Which feature of PRINCE2 tells the Project Manager where a product is, what its status is and who is working\r\non it?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -512,8 +512,8 @@
         "B"
       ],
       "options": [
-        "A justification for undertaking the project based on estimated costs and anticipated<br/>    benefits.",
-        "A measurable definition of what must be done for the final product to be acceptable<br/>    to the Customer.",
+        "A justification for undertaking the project based on estimated costs and anticipated\r\n    benefits.",
+        "A measurable definition of what must be done for the final product to be acceptable\r\n    to the Customer.",
         "To provide a full and firm foundation for the initiation of a project.",
         "To triger` Starting up a Project'."
       ],
@@ -553,7 +553,7 @@
         "The Risk Log",
         "The Project Brief"
       ],
-      "question": "What other product is reviewed at the end of each stage apart from the Business Case<br/>and Project Plan?",
+      "question": "What other product is reviewed at the end of each stage apart from the Business Case\r\nand Project Plan?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -716,7 +716,7 @@
         "The Project Brief",
         "The Business Case"
       ],
-      "question": "The existence of what product is checked in \"Starting up a Project\" and its initial version finalized in\" Initiating a<br/>Project\"?",
+      "question": "The existence of what product is checked in \"Starting up a Project\" and its initial version finalized in\" Initiating a\r\nProject\"?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -752,7 +752,7 @@
         "Difficulty in predicting business conditions in the future",
         "Difficulty in predicting resource availability well into the future"
       ],
-      "question": "PRINCE2 lists a number of reasons why it is seldom desirable or possible to plan an entire project in detail at<br/>the start. Which of these is NOT one of these reasons?",
+      "question": "PRINCE2 lists a number of reasons why it is seldom desirable or possible to plan an entire project in detail at\r\nthe start. Which of these is NOT one of these reasons?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -802,7 +802,7 @@
       ],
       "options": [
         "From the problem to the end of the project",
-        "From the problem to the end of a plan that will no longer finish within agreed<br/><br/>    tolerances",
+        "From the problem to the end of a plan that will no longer finish within agreed\r\n\r\n    tolerances",
         "The work needed to put the project back within its tolerances",
         "The time needed to produce an Exception Report"
       ],
@@ -820,11 +820,11 @@
       ],
       "options": [
         "To enable the approval of an Exception Report",
-        "To provide a review of a risky project at key moments when new information about<br/><br/>    those risks appears",
-        "To ensure that key decisions are made prior to the detailed work needed to<br/><br/>    implement them",
-        "To provide a` fire break' for the project by encouraging the Project Board to assess<br/><br/>    the project viability at regular intervals"
+        "To provide a review of a risky project at key moments when new information about\r\n\r\n    those risks appears",
+        "To ensure that key decisions are made prior to the detailed work needed to\r\n\r\n    implement them",
+        "To provide a` fire break' for the project by encouraging the Project Board to assess\r\n\r\n    the project viability at regular intervals"
       ],
-      "question": "There are several benefits that the end stage assessment brings to a project. Which one of the following is<br/>NOT a benefit?",
+      "question": "There are several benefits that the end stage assessment brings to a project. Which one of the following is\r\nNOT a benefit?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -878,7 +878,7 @@
         "Team member' s decision to whom the work has been allocated",
         "formal change control"
       ],
-      "question": "If there is a request to change a baselined product, and the change can be done within the stage or Work<br/>Package tolerances, how can the decision to implement the change be made?",
+      "question": "If there is a request to change a baselined product, and the change can be done within the stage or Work\r\nPackage tolerances, how can the decision to implement the change be made?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -968,7 +968,7 @@
         "Configuration Management",
         "Change Control"
       ],
-      "question": "If a question arises on why a particular product was changed, which element of PRINCE2 would be of most<br/>help in finding the information?",
+      "question": "If a question arises on why a particular product was changed, which element of PRINCE2 would be of most\r\nhelp in finding the information?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1022,7 +1022,7 @@
         "Only the first is false",
         "The second and third are true"
       ],
-      "question": "Are the following statements true or false?<br/>1 Delegated Project Assurance roles report directly to corporate or programme<br/>management<br/>2 In PRINCE2 the Project Manager role must be full time<br/>3 A project management structure is a temporary structure",
+      "question": "Are the following statements true or false?\r\n1 Delegated Project Assurance roles report directly to corporate or programme\r\nmanagement\r\n2 In PRINCE2 the Project Manager role must be full time\r\n3 A project management structure is a temporary structure",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1112,7 +1112,7 @@
         "Review Chairperson",
         "Configuration Librarian"
       ],
-      "question": "In a Quality Review which role does PRINCE2 suggest must ensure that all reviewers are provided with the<br/>relevant review products?",
+      "question": "In a Quality Review which role does PRINCE2 suggest must ensure that all reviewers are provided with the\r\nrelevant review products?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1148,7 +1148,7 @@
         "Identifying, recording and regularly reviewing risks",
         "Striking a balance between levels of risk and potential benefits"
       ],
-      "question": "The Project Board has three responsibilities towards the management of risk. Which of the following options is<br/>the FALSE one?",
+      "question": "The Project Board has three responsibilities towards the management of risk. Which of the following options is\r\nthe FALSE one?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1200,7 +1200,7 @@
         "Understand the reporting requirements",
         "Agree tolerance margins for the Work Package",
         "Monitor and control the risks associated with the Work Package",
-        "Produce a Team Plan which shows that the Work Package can be completed within<br/><br/>    the constraints"
+        "Produce a Team Plan which shows that the Work Package can be completed within\r\n\r\n    the constraints"
       ],
       "question": "Which step is NOT part of\" Acepting a Work Package\"?",
       "level": "100",
@@ -1220,7 +1220,7 @@
         "Planning",
         "Managing Stage Boundaries"
       ],
-      "question": "Which process provides the information needed for the Project Board to assess the<br/>continuing viability of the project?",
+      "question": "Which process provides the information needed for the Project Board to assess the\r\ncontinuing viability of the project?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1238,7 +1238,7 @@
         "Only the first two are correct",
         "The third is wrong."
       ],
-      "question": "Which of the following are described in the Communication Plan?<br/>1) Who needs information<br/>2) What information they need<br/>3) Why they need it<br/>4) The format in which it should be presenteD)",
+      "question": "Which of the following are described in the Communication Plan?\r\n1) Who needs information\r\n2) What information they need\r\n3) Why they need it\r\n4) The format in which it should be presenteD)",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1310,7 +1310,7 @@
         "Managing Stage Boundaries",
         "Directing a Project"
       ],
-      "question": "Quality responsibilities, both within and external to the project, are defined in which<br/>process?",
+      "question": "Quality responsibilities, both within and external to the project, are defined in which\r\nprocess?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1364,7 +1364,7 @@
         "the first two",
         "the third is wrong"
       ],
-      "question": "Which of the following are functions of the start-up process, SU?<br/>1) Setting up the project management team<br/>2) Developing the Project Mandate into the Project Brief<br/>3) Confirming the Project Approach<br/>4) Creating the Issue Log",
+      "question": "Which of the following are functions of the start-up process, SU?\r\n1) Setting up the project management team\r\n2) Developing the Project Mandate into the Project Brief\r\n3) Confirming the Project Approach\r\n4) Creating the Issue Log",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1400,7 +1400,7 @@
         "Any agreed changes in circumstances",
         "Any revised forecast of cost"
       ],
-      "question": "New versions of the Project Plan are produced at the end of each stage to reflect updated information. Identify<br/>which option is FALSE.",
+      "question": "New versions of the Project Plan are produced at the end of each stage to reflect updated information. Identify\r\nwhich option is FALSE.",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1490,7 +1490,7 @@
         "The Senior User",
         "The entire Project Board"
       ],
-      "question": "Who is responsible for the project producing a result that is capable of achieving the benefits defined in the<br/>Business Case?",
+      "question": "Who is responsible for the project producing a result that is capable of achieving the benefits defined in the\r\nBusiness Case?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1575,10 +1575,10 @@
         "C"
       ],
       "options": [
-        "A clear end to a project provides a useful opportunity to take stock of achievements<br/>    and experience",
-        "A clear end to a project provides an opportunity to ensure that all unachieved goals<br/>    and objectives are identified",
-        "A clear end to a project provides the opportunity to evaluate achievement of all the<br/>    expected benefits",
-        "A clear end to a project is always more successful than the natural tendency to drift<br/>    into use and subsequent modification of the product"
+        "A clear end to a project provides a useful opportunity to take stock of achievements\r\n    and experience",
+        "A clear end to a project provides an opportunity to ensure that all unachieved goals\r\n    and objectives are identified",
+        "A clear end to a project provides the opportunity to evaluate achievement of all the\r\n    expected benefits",
+        "A clear end to a project is always more successful than the natural tendency to drift\r\n    into use and subsequent modification of the product"
       ],
       "question": "Which statement is NOT a fundamental principle of \"Closing a Project\"?",
       "level": "100",
@@ -1666,9 +1666,9 @@
       ],
       "options": [
         "For the Project Manager to present an Exception Plan to the Project Board",
-        "The Project Manager delivers a progress report to the Project Board as a confidence<br/><br/>    boost",
+        "The Project Manager delivers a progress report to the Project Board as a confidence\r\n\r\n    boost",
         "The Project Board meets to consider an Exception Report",
-        "The Project Manager reviews and revises the Risk Log with those with assurance<br/><br/>    roles"
+        "The Project Manager reviews and revises the Risk Log with those with assurance\r\n\r\n    roles"
       ],
       "question": "Which statement most accurately reflects the reason for an Exception Assessment in PRINCE2TM?",
       "level": "100",
@@ -1706,7 +1706,7 @@
         "The Business Case",
         "Project Initiation Document"
       ],
-      "question": "As part of \"Assessing Progress\" the Project Manager looks at Checkpoint Reports, Work Packages status and<br/>what other product?",
+      "question": "As part of \"Assessing Progress\" the Project Manager looks at Checkpoint Reports, Work Packages status and\r\nwhat other product?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1845,9 +1845,9 @@
         "A"
       ],
       "options": [
-        "A controlled break between Project Manager and product creation/provision by third<br/>    party suppliers",
-        "Before a Work Package is allocated to the team, there should be agreement with the<br/>    Project Manager on what is to be delivered",
-        "Whatever the type of project, the actual task of creating the required products needs<br/>    to be managed",
+        "A controlled break between Project Manager and product creation/provision by third\r\n    party suppliers",
+        "Before a Work Package is allocated to the team, there should be agreement with the\r\n    Project Manager on what is to be delivered",
+        "Whatever the type of project, the actual task of creating the required products needs\r\n    to be managed",
         "Work only commences and continues with the consent of the Project Manager"
       ],
       "question": "What is the fundamental principle behind the process \"Managing Product Delivery\"?",
@@ -1900,9 +1900,9 @@
       ],
       "options": [
         "The two standard elements to tolerance are time and cost",
-        "Tolerance is the permissible deviation from plan without bringing the deviation to<br/><br/>    the attention of the next higher authority.",
+        "Tolerance is the permissible deviation from plan without bringing the deviation to\r\n\r\n    the attention of the next higher authority.",
         "Separate tolerance figures should be given for time and cost.",
-        "The Project Board has absolute discretion to set new tolerances at Project and Stage<br/><br/>    Plan levels whenever it wishes to whatever levels it wishes."
+        "The Project Board has absolute discretion to set new tolerances at Project and Stage\r\n\r\n    Plan levels whenever it wishes to whatever levels it wishes."
       ],
       "question": "Which of the following statements is FALSE?",
       "level": "100",
@@ -2012,7 +2012,7 @@
         "Scheduling",
         "Defining and analysing products"
       ],
-      "question": "Given that producing a Product Breakdown Structure and a Product Flow Diagram are<br/>two of the steps of product-based planning, which is another?",
+      "question": "Given that producing a Product Breakdown Structure and a Product Flow Diagram are\r\ntwo of the steps of product-based planning, which is another?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2030,7 +2030,7 @@
         "the Team Manager",
         "the Producer"
       ],
-      "question": "In preparing for a Quality Review, who should distribute a copy of the product and Product Description to the<br/>reviewers?",
+      "question": "In preparing for a Quality Review, who should distribute a copy of the product and Product Description to the\r\nreviewers?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2066,7 +2066,7 @@
         "Product-based Planning",
         "Change Control"
       ],
-      "question": "Which PRINCE2 technique helps to ensure that all personnel affected by a product have the same<br/>understanding of the product's purpose?",
+      "question": "Which PRINCE2 technique helps to ensure that all personnel affected by a product have the same\r\nunderstanding of the product's purpose?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2084,7 +2084,7 @@
         "Configuration Management",
         "Work Package Authorisations"
       ],
-      "question": "If there were a need to know what the precise content of an old version of a product was, what part of<br/>PRINCE2TM would most help us?",
+      "question": "If there were a need to know what the precise content of an old version of a product was, what part of\r\nPRINCE2TM would most help us?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2210,7 +2210,7 @@
         "In Giving Ad Hoc Direction",
         "When Authorising a Stage"
       ],
-      "question": "In which process does the Project Manager ask the Project Board where the authority<br/>for making change lies?",
+      "question": "In which process does the Project Manager ask the Project Board where the authority\r\nfor making change lies?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2300,7 +2300,7 @@
         "Quality Review",
         "Quality Assurance"
       ],
-      "question": "What name is given to the review that checks that the configuration management process is being done to a<br/>standard?",
+      "question": "What name is given to the review that checks that the configuration management process is being done to a\r\nstandard?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2318,7 +2318,7 @@
         "Configuration Librarian",
         "The Project Board"
       ],
-      "question": "Who might receive completed products before the Team Manager reports that the Work Package has been<br/>completed?",
+      "question": "Who might receive completed products before the Team Manager reports that the Work Package has been\r\ncompleted?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2390,7 +2390,7 @@
         "Where the key decision points need to be on the project",
         "Too many small stages versus too few big ones"
       ],
-      "question": "Defining the stages of a project is fundamentally a process of balancing a number ofparameters. Which one of<br/>the following is NOT one of the parameters",
+      "question": "Defining the stages of a project is fundamentally a process of balancing a number ofparameters. Which one of\r\nthe following is NOT one of the parameters",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2424,7 +2424,7 @@
         "Understand the reporting requirements",
         "Agree tolerance margins for the Work Package",
         "Monitor and control the risks associated with the Work Package",
-        "Produce a Team Plan which shows that the Work Package can be completed within<br/><br/>    the constraints"
+        "Produce a Team Plan which shows that the Work Package can be completed within\r\n\r\n    the constraints"
       ],
       "question": "which step is NOT part of \"Accepting a Work Package\"?",
       "level": "100",
@@ -2462,7 +2462,7 @@
         "Just the Quality File",
         "One per Project Issue"
       ],
-      "question": "In the PRINCE2TM document management structure, how many major types of file are<br/>recommended?",
+      "question": "In the PRINCE2TM document management structure, how many major types of file are\r\nrecommended?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2498,7 +2498,7 @@
         "Quality in a Project Environment",
         "Change Control"
       ],
-      "question": "The following appears on the cover sheet of a PID: 'Version 1. 3 Draft'. Which Component of PRINCE2 would<br/>be responsible for this entry?",
+      "question": "The following appears on the cover sheet of a PID: 'Version 1. 3 Draft'. Which Component of PRINCE2 would\r\nbe responsible for this entry?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2534,7 +2534,7 @@
         "Initiating a Project",
         "Controlling a Stage"
       ],
-      "question": "In addition to the normal steps of a Quality Review an extra one, \"Quality Review Planning\" is recommendeD)<br/>In which process does PRINCE2 suggest that this step should be done?",
+      "question": "In addition to the normal steps of a Quality Review an extra one, \"Quality Review Planning\" is recommendeD)\r\nIn which process does PRINCE2 suggest that this step should be done?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2606,7 +2606,7 @@
         "Ensure resource commitment from management is part of any approval to proceed",
         "Provide brief reports to management at regular meetings"
       ],
-      "question": "Which of the following statements is FALSE? Project Managers using PRINCE2 are<br/>encouraged to ...",
+      "question": "Which of the following statements is FALSE? Project Managers using PRINCE2 are\r\nencouraged to ...",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2624,7 +2624,7 @@
         "Acceptance Criteria",
         "Stage Quality Plans"
       ],
-      "question": "The Quality File has seven divisions. Five of these are for customer's quality expectations, Project Quality Plan,<br/>Configuration Management Plan, Configuration Item Records and Quality inspection records. Which of the<br/>following is another one?",
+      "question": "The Quality File has seven divisions. Five of these are for customer's quality expectations, Project Quality Plan,\r\nConfiguration Management Plan, Configuration Item Records and Quality inspection records. Which of the\r\nfollowing is another one?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2660,7 +2660,7 @@
         "Checkpoint Report",
         "Risk Log"
       ],
-      "question": "It would be chaotic to have the people who are working on the project starting activities whenever they think fit.<br/>What product does PRINCE2 use to control this?",
+      "question": "It would be chaotic to have the people who are working on the project starting activities whenever they think fit.\r\nWhat product does PRINCE2 use to control this?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2714,7 +2714,7 @@
         "Making decisions on recommended reactions to risk",
         "Striking a balance between level of risk and potential benefits"
       ],
-      "question": "The Project Board has three responsibilities towards the Management of Risk. Which of the following options is<br/>the FALSE one?",
+      "question": "The Project Board has three responsibilities towards the Management of Risk. Which of the following options is\r\nthe FALSE one?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2732,7 +2732,7 @@
         "Outcomes",
         "Benefits"
       ],
-      "question": "There are 6 variables involved in all projects. The first 5 are costs, timescales, quality, scope and risk. What is<br/>the 6th?",
+      "question": "There are 6 variables involved in all projects. The first 5 are costs, timescales, quality, scope and risk. What is\r\nthe 6th?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2783,10 +2783,10 @@
       "options": [
         "In Controlling a Stage, the Stage Plan is updated with actuals and progress is checked against the plan",
         "Controlling a Stage drives Managing Product Delivery",
-        "The Project Manager uses the process Controlling a Stage to manage any deviations from Stage or Project<br/><br/>    Plans",
+        "The Project Manager uses the process Controlling a Stage to manage any deviations from Stage or Project\r\n\r\n    Plans",
         "All of Controlling a Stage is used in a time-driven manner"
       ],
-      "question": "Controlling a Stage describes the day-to-day work of the Project Manager. Which of the following statements is<br/>false?",
+      "question": "Controlling a Stage describes the day-to-day work of the Project Manager. Which of the following statements is\r\nfalse?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2894,7 +2894,7 @@
         "Project Product Descriptions",
         "Exception Plan"
       ],
-      "question": "Which of the following is an in put to the \"Plan the Next Stage\" activity in the \"Managing a Stage Boundary\"<br/>process?",
+      "question": "Which of the following is an in put to the \"Plan the Next Stage\" activity in the \"Managing a Stage Boundary\"\r\nprocess?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3074,7 +3074,7 @@
         "land 3 only",
         "1 2 and 3 only"
       ],
-      "question": "The Project Board keeps a control of the project through:<br/>1 Highlight Reports<br/>2 Checkpoint Reports<br/>3 Exception assessment<br/>4 Quality Log",
+      "question": "The Project Board keeps a control of the project through:\r\n1 Highlight Reports\r\n2 Checkpoint Reports\r\n3 Exception assessment\r\n4 Quality Log",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3110,7 +3110,7 @@
         "None of the above",
         "1&2"
       ],
-      "question": "Which of the following are NOT covered in the management product `Project Approach'?<br/>1 Whether the solution is to be bespoke<br/>2 What quality levels the product must meet<br/>3 Whether an off the shelf product will be used",
+      "question": "Which of the following are NOT covered in the management product `Project Approach'?\r\n1 Whether the solution is to be bespoke\r\n2 What quality levels the product must meet\r\n3 Whether an off the shelf product will be used",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3128,7 +3128,7 @@
         "Configuration Item Record",
         "Benefits Review Plan"
       ],
-      "question": "Which of the following is an in put to the \"Prepare the Communication Management<br/>Strategy\" ?",
+      "question": "Which of the following is an in put to the \"Prepare the Communication Management\r\nStrategy\" ?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3193,7 +3193,7 @@
       "section": "",
       "answer": [],
       "options": [
-        "A set of records that descrbe rformaton about the project B) A bg used to record<br/>    problems or concerns about products C) An aud( or review to compare actual status of<br/>    products<br/>    D) A report covemg the status about the state of the projects products withn"
+        "A set of records that descrbe rformaton about the project B) A bg used to record\r\n    problems or concerns about products C) An aud( or review to compare actual status of\r\n    products\r\n    D) A report covemg the status about the state of the projects products withn"
       ],
       "question": "What is the purpose of a Product Status Account?",
       "level": "100",
@@ -3213,7 +3213,7 @@
         "1 2 4",
         "1 2 3"
       ],
-      "question": "When examining a project issue, which three aspects should be considered?<br/>1 Performance targets<br/>2 Business Case<br/>3 Resources<br/>4 Risk",
+      "question": "When examining a project issue, which three aspects should be considered?\r\n1 Performance targets\r\n2 Business Case\r\n3 Resources\r\n4 Risk",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3321,7 +3321,7 @@
         "Quay Register",
         "Configuration Item Record"
       ],
-      "question": "During Execubng a Work package, specialist products are createi and quality reviews<br/>are carried out which management product captures the details of these reviews?",
+      "question": "During Execubng a Work package, specialist products are createi and quality reviews\r\nare carried out which management product captures the details of these reviews?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3339,7 +3339,7 @@
         "Issue Report",
         "End Stage Report"
       ],
-      "question": "During a work package the Team manager needs to keep the project manager informed,<br/>which management product is used for this?",
+      "question": "During a work package the Team manager needs to keep the project manager informed,\r\nwhich management product is used for this?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3375,7 +3375,7 @@
         "1 2 4",
         "23 4"
       ],
-      "question": "Whicti of the following management products is NOT updated as part of Managing a stage boundary?<br/>1 Business Case<br/>2 Benefits Review Plan<br/>3 Configuration Item Records<br/>4 Project Brief",
+      "question": "Whicti of the following management products is NOT updated as part of Managing a stage boundary?\r\n1 Business Case\r\n2 Benefits Review Plan\r\n3 Configuration Item Records\r\n4 Project Brief",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3391,7 +3391,7 @@
         "",
         ""
       ],
-      "question": "Which of the following activities could tngger the production of an exception plan?<br/>Review Stage status<br/>B) Givng ad hoc drection<br/>C) Escalatng a project issue<br/>D) Report stage end",
+      "question": "Which of the following activities could tngger the production of an exception plan?\r\nReview Stage status\r\nB) Givng ad hoc drection\r\nC) Escalatng a project issue\r\nD) Report stage end",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3409,7 +3409,7 @@
         "The justification for the project may change.",
         "If the project is no longer justified t should be stoppeD)"
       ],
-      "question": "Which of the following statements is FALSE regarding the Continued Business<br/>Justifcation",
+      "question": "Which of the following statements is FALSE regarding the Continued Business\r\nJustifcation",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3460,7 +3460,7 @@
       "options": [
         "Have business, user and suppler stakeholders representation",
         "Never be reviewed as members should stay with the team for the duration",
-        "Ensure appropriate governance by defiling responsive for directing, managing and<br/><br/>    delving the project and clearly defining accountable at all levels",
+        "Ensure appropriate governance by defiling responsive for directing, managing and\r\n\r\n    delving the project and clearly defining accountable at all levels",
         "Have an effective strategy to manage communication flows to and from stakeholders"
       ],
       "question": "Which of the following is False? A Successful project management team should,",
@@ -3535,7 +3535,7 @@
         "Corporate or Programme Management",
         "Project Support"
       ],
-      "question": "Who is responsible for ensuring That Communication Management Strategy is appropriate and that planned<br/>communication activities actually take place?",
+      "question": "Who is responsible for ensuring That Communication Management Strategy is appropriate and that planned\r\ncommunication activities actually take place?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3589,7 +3589,7 @@
         "4 3 2 1",
         "2 4 1 3"
       ],
-      "question": "Having completed designing the plan, in which order should the next steps take place to<br/>produce a plan?<br/>1 Prepare Estimates<br/>2 Define and analyze Products<br/>3 Prepare the schedule<br/>4 Identify activities and dependencies",
+      "question": "Having completed designing the plan, in which order should the next steps take place to\r\nproduce a plan?\r\n1 Prepare Estimates\r\n2 Define and analyze Products\r\n3 Prepare the schedule\r\n4 Identify activities and dependencies",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3607,7 +3607,7 @@
         "1 3 4",
         "1 2 4"
       ],
-      "question": "Product based planning focuses on which of the following<br/>1 Creating product descriptions<br/>2 Identifying activities<br/>3 Creating a Product hierarchy<br/>4 Creating a Product sequence",
+      "question": "Product based planning focuses on which of the following\r\n1 Creating product descriptions\r\n2 Identifying activities\r\n3 Creating a Product hierarchy\r\n4 Creating a Product sequence",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3787,7 +3787,7 @@
         "Manage by exception",
         "Learn from experience"
       ],
-      "question": "Which of the following principles describes this statement'? xxx defines tolerances for each project objective to<br/>establish limits of delegated authority",
+      "question": "Which of the following principles describes this statement'? xxx defines tolerances for each project objective to\r\nestablish limits of delegated authority",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3805,7 +3805,7 @@
         "As the project progresses",
         "As the project doses"
       ],
-      "question": "Which of the following statements is NOT correct The Learn from Experience principle suggests that lessons<br/>should be actively sought..",
+      "question": "Which of the following statements is NOT correct The Learn from Experience principle suggests that lessons\r\nshould be actively sought..",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3823,7 +3823,7 @@
         "Manage by stages",
         "Continued business justification"
       ],
-      "question": "Which of the following principles uses Product Descriptions to provide clarity by defining each products<br/>purpose, composition, derivation, format, quality criteria and quality method?",
+      "question": "Which of the following principles uses Product Descriptions to provide clarity by defining each products\r\npurpose, composition, derivation, format, quality criteria and quality method?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3859,7 +3859,7 @@
         "Risk, Benefit, Product",
         "Scope, Risk. Benefit"
       ],
-      "question": "The Manage by Exception principle sets tolerances for six areas of the project, Time, Cost and Qualities are<br/>three of them, what are the other three?",
+      "question": "The Manage by Exception principle sets tolerances for six areas of the project, Time, Cost and Qualities are\r\nthree of them, what are the other three?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3872,7 +3872,7 @@
         "A"
       ],
       "options": [
-        "Ensure project controls are based on project's scab, complexity, repentance, capably<br/>    and risk",
+        "Ensure project controls are based on project's scab, complexity, repentance, capably\r\n    and risk",
         "To use a set of pre-defined templates for the size of project",
         "To tailor the use of the principles to suit the project",
         "To pick which PRTNCE2 processes to apply and which to leave out"
@@ -4003,7 +4003,7 @@
         "Manage by exceptions",
         "Learn from experience"
       ],
-      "question": "Which principle is central to the quality theme and provides explicit understanding of what the project will<br/>create?",
+      "question": "Which principle is central to the quality theme and provides explicit understanding of what the project will\r\ncreate?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4021,7 +4021,7 @@
         "1.2&4",
         "2.3&4"
       ],
-      "question": "Which of the following statements are True<br/>1 Quality management is the complete set of quality standards. Procedures and responsibilities for a site or<br/>organization<br/>2 Quality planning is about defining products required of the protect with their respective quality criteria<br/>methods and responsibilities.<br/>3 Quality control focuses on the op rational techniques and activities used to carry out quality inspections.<br/>4 Quality assurance ensures that quality methods are being correctly followed",
+      "question": "Which of the following statements are True\r\n1 Quality management is the complete set of quality standards. Procedures and responsibilities for a site or\r\norganization\r\n2 Quality planning is about defining products required of the protect with their respective quality criteria\r\nmethods and responsibilities.\r\n3 Quality control focuses on the op rational techniques and activities used to carry out quality inspections.\r\n4 Quality assurance ensures that quality methods are being correctly followed",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4075,7 +4075,7 @@
         "Senior User",
         "Project Assurance"
       ],
-      "question": "Which role is responsible for providing the customers quality expectations and acceptance criteria for the<br/>project?",
+      "question": "Which role is responsible for providing the customers quality expectations and acceptance criteria for the\r\nproject?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4201,7 +4201,7 @@
         "Team Manager",
         "Project Assurance"
       ],
-      "question": "Who is responsible for reviewing the risk management practices to ensure they are in line with the project's risk<br/>management strategy?",
+      "question": "Who is responsible for reviewing the risk management practices to ensure they are in line with the project's risk\r\nmanagement strategy?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4291,7 +4291,7 @@
         "Benefits Review plan",
         "Issue Register"
       ],
-      "question": "Which other management product is created when the Business case is updated during<br/>Initiating a Project'?",
+      "question": "Which other management product is created when the Business case is updated during\r\nInitiating a Project'?",
       "level": "100",
       "reference": "",
       "type": "mcq",
