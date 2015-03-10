@@ -4,7 +4,7 @@
   "number": "EX0-117",
   "version": "16.5",
   "timeLimit": 120,
-  "date": "2015-03-09T00:00:00+00:00",
+  "date": "2015-03-10T00:00:00+00:00",
   "url": "",
   "scorePerQuestion": 1,
   "description": "[No description given]",
@@ -31,7 +31,7 @@
         "1, 2 and 4 only",
         "All of the above"
       ],
-      "question": "Which of the following are objectives of service level management?\r\n\r\n1: Defining, documenting and agreeing the level of FT services to be provided\r\n2: Monitoring, measuring and reporting the actual level of services provided\r\n3: Monitoring and improving customer satisfaction\r\n4: Identifying possible future markets that the service provider could operate in",
+      "question": "Which of the following are objectives of service level management?<br/><br/>1: Defining, documenting and agreeing the level of FT services to be provided<br/>2: Monitoring, measuring and reporting the actual level of services provided<br/>3: Monitoring and improving customer satisfaction<br/>4: Identifying possible future markets that the service provider could operate in",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -67,7 +67,7 @@
         "Be kept up-to-date on the progress of an activity",
         "Manage an activity"
       ],
-      "question": "A process owner has been identified with an \"I\" in a RACI matrix. Which one of the following would be\r\nexpected of them?",
+      "question": "A process owner has been identified with an \"I\" in a RACI matrix. Which one of the following would be<br/>expected of them?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -118,7 +118,7 @@
       "options": [
         "Designing and maintaining all necessary service transition packages",
         "Producing quality, secure and resilient designs for new or improved services",
-        "Taking service strategies and ensuring they are reflected in the service design processes and the service\r\n\r\n    designs that are produced",
+        "Taking service strategies and ensuring they are reflected in the service design processes and the service<br/><br/>    designs that are produced",
         "Measuring the effectiveness and efficiency of service design and the supporting processes"
       ],
       "question": "Which one of the following is NOT part of the service design stage of the service lifecycle?",
@@ -157,7 +157,7 @@
         "1, 3 and 4 only",
         "1, 2 and 3 only"
       ],
-      "question": "Which of the following service desk organizational structures are described in service operation?\r\n\r\n1. Local service desk\r\n2. Virtual service desk\r\n3. IT help desk\r\n4. Follow the sun",
+      "question": "Which of the following service desk organizational structures are described in service operation?<br/><br/>1. Local service desk<br/>2. Virtual service desk<br/>3. IT help desk<br/>4. Follow the sun",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -193,7 +193,7 @@
         "Regulators",
         "Accreditors"
       ],
-      "question": "What would you call the groups of people who have an interest in the activities, targets, resources and\r\ndeliverables from service management?",
+      "question": "What would you call the groups of people who have an interest in the activities, targets, resources and<br/>deliverables from service management?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -211,7 +211,7 @@
         "1 and 3 only",
         "All of the above"
       ],
-      "question": "Which of the following are the MAIN objectives of incident management?\r\n1. To automatically detect service-affecting events\r\n2. To restore normal service operation as quickly as possible\r\n3. To minimize adverse impacts on business operations",
+      "question": "Which of the following are the MAIN objectives of incident management?<br/>1. To automatically detect service-affecting events<br/>2. To restore normal service operation as quickly as possible<br/>3. To minimize adverse impacts on business operations",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -229,7 +229,7 @@
         "Urgent change board",
         "Urgent change authority"
       ],
-      "question": "What is the name of the group that should review changes that must be implemented faster than the normal\r\nchange process?",
+      "question": "What is the name of the group that should review changes that must be implemented faster than the normal<br/>change process?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -265,7 +265,7 @@
         "1 and 2 only",
         "2 and 3 only"
       ],
-      "question": "Which of the following types of service should be included in the scope of service portfolio management?\r\n1. Those planned to be delivered\r\n2. Those being delivered\r\n3. Those that have been withdrawn from service",
+      "question": "Which of the following types of service should be included in the scope of service portfolio management?<br/>1. Those planned to be delivered<br/>2. Those being delivered<br/>3. Those that have been withdrawn from service",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -281,7 +281,7 @@
         "An unplanned disruption of service unless there is a backup to that service",
         "An unplanned interruption to service or a reduction in the quality of service",
         "Any disruption to service whether planned or unplanned",
-        "Any disruption to service that is reported to the service desk, regardless of whether the service is impacted\r\n\r\n    or not"
+        "Any disruption to service that is reported to the service desk, regardless of whether the service is impacted<br/><br/>    or not"
       ],
       "question": "The BEST description of an incident is:",
       "level": "100",
@@ -296,10 +296,10 @@
         "D"
       ],
       "options": [
-        "Devise a strategy; Design the solution;\r\n    Transition into production;\r\n    Operate the solution;\r\n    Continually improve",
-        "Where do we want to be?;\r\n    How do we get there?;\r\n    How do we check we arrived?;\r\n    How do we keep the momentum going?",
-        "Identify the required business outcomes;\r\n    Plan how to achieve the outcomes;\r\n    Implement the plan;\r\n    Check the plan has been properly implemented;\r\n    Improve the solution",
-        "What is the vision?; Where are we now?;\r\n    Where do we want to be?;\r\n    How do we get there?;\r\n    Did we get there?;\r\n    How do we keep the momentum going?"
+        "Devise a strategy; Design the solution;<br/>    Transition into production;<br/>    Operate the solution;<br/>    Continually improve",
+        "Where do we want to be?;<br/>    How do we get there?;<br/>    How do we check we arrived?;<br/>    How do we keep the momentum going?",
+        "Identify the required business outcomes;<br/>    Plan how to achieve the outcomes;<br/>    Implement the plan;<br/>    Check the plan has been properly implemented;<br/>    Improve the solution",
+        "What is the vision?; Where are we now?;<br/>    Where do we want to be?;<br/>    How do we get there?;<br/>    Did we get there?;<br/>    How do we keep the momentum going?"
       ],
       "question": "Which one of the following is the CORRECT set of steps for the continual service improvement approach?",
       "level": "100",
@@ -319,7 +319,7 @@
         "Neither of the above",
         "Both of the above"
       ],
-      "question": "When can a known error record be raised?\r\n1. At any time it would be useful to do so\r\n2. After a workaround has been found",
+      "question": "When can a known error record be raised?<br/>1. At any time it would be useful to do so<br/>2. After a workaround has been found",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -337,7 +337,7 @@
         "The change implementer",
         "The change manager"
       ],
-      "question": "What body exists to support the authorization of changes and to assist change management in the assessment\r\nand prioritization of changes?",
+      "question": "What body exists to support the authorization of changes and to assist change management in the assessment<br/>and prioritization of changes?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -355,7 +355,7 @@
         "Service level management",
         "Availability management"
       ],
-      "question": "Which process is responsible for discussing reports with customers showing whether services have met their\r\ntargets?",
+      "question": "Which process is responsible for discussing reports with customers showing whether services have met their<br/>targets?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -371,7 +371,7 @@
         "The value of a service",
         "Governance",
         "Total cost of ownership (TCO)",
-        "Key performance indicators (KPIs)\r\n\r\nExam B"
+        "Key performance indicators (KPIs)<br/><br/>Exam B"
       ],
       "question": "What do customer perceptions and business outcomes help to define?",
       "level": "100",
@@ -499,7 +499,7 @@
         "Teams",
         "Roles, people or groups"
       ],
-      "question": "Consider the following list:\r\n1. Change authority\r\n2. Change manager\r\n3. Change advisory board (CAB)\r\nWhich one of the following is the BEST description of the items above?",
+      "question": "Consider the following list:<br/>1. Change authority<br/>2. Change manager<br/>3. Change advisory board (CAB)<br/>Which one of the following is the BEST description of the items above?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -553,7 +553,7 @@
         "Continual service improvement (CSI) approach",
         "The Deming Cycle"
       ],
-      "question": "Which one of the following would be the MOST useful in helping to define roles and responsibilities in an\r\norganizational structure?",
+      "question": "Which one of the following would be the MOST useful in helping to define roles and responsibilities in an<br/>organizational structure?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -603,7 +603,7 @@
       ],
       "options": [
         "A set of specialized organizational capabilities for providing value to customers in the form of services",
-        "A group of interacting, interrelated, or independent components that form a unified whole, operating\r\n\r\n    together for a common purpose",
+        "A group of interacting, interrelated, or independent components that form a unified whole, operating<br/><br/>    together for a common purpose",
         "The management of functions within an organization to perform certain activities",
         "Units of organizations with roles to perform certain activities"
       ],
@@ -657,7 +657,7 @@
       ],
       "options": [
         "To build, test and deliver the capability to provide the services specified by service design",
-        "To ensure that each release package specified by service design consists of a set of related assets and\r\n\r\n    service components",
+        "To ensure that each release package specified by service design consists of a set of related assets and<br/><br/>    service components",
         "To ensure that all changes can be tracked, tested and verified if appropriate",
         "To record and manage deviations, risks and issues related to the new or changed service"
       ],
@@ -679,7 +679,7 @@
         "Creating a baseline",
         "Defining measurable targets"
       ],
-      "question": "Which one of the following activities are carried out during the \"Where do we want to be?\" step of the continual\r\nservice improvement (CSI) approach?",
+      "question": "Which one of the following activities are carried out during the \"Where do we want to be?\" step of the continual<br/>service improvement (CSI) approach?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -715,7 +715,7 @@
         "Control of exposure to risk and investment of capital",
         "Training of all staff and investment of capital"
       ],
-      "question": "The effective management of risk requires specific types of action. Which of the following pairs of actions\r\nwould be BEST to manage risk?",
+      "question": "The effective management of risk requires specific types of action. Which of the following pairs of actions<br/>would be BEST to manage risk?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -731,7 +731,7 @@
         "Standards",
         "Technology",
         "Academic research",
-        "Internal experience\r\n\r\nExam C"
+        "Internal experience<br/><br/>Exam C"
       ],
       "question": "Which of the following is an enabler of best practice?",
       "level": "100",
@@ -751,7 +751,7 @@
         "Products",
         "Potential"
       ],
-      "question": "Service design emphasizes the importance of the \"Four Ps\". These \"Four Ps\" include Partners, People,\r\nProcesses and one other \"P\". Which of the following is the additional \"P\"?",
+      "question": "Service design emphasizes the importance of the \"Four Ps\". These \"Four Ps\" include Partners, People,<br/>Processes and one other \"P\". Which of the following is the additional \"P\"?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -805,7 +805,7 @@
         "1 and 2 only",
         "2 and 3 only"
       ],
-      "question": "Which of the following provide value to the business from service strategy?\r\n1. Enabling the service provider to have a clear understanding of what levels of service will make their\r\ncustomer's successful\r\n2. Enabling the service provider to respond quickly and effectively to changes in the business environment\r\n3. Reduction in the duration and frequency of service outages",
+      "question": "Which of the following provide value to the business from service strategy?<br/>1. Enabling the service provider to have a clear understanding of what levels of service will make their<br/>customer's successful<br/>2. Enabling the service provider to respond quickly and effectively to changes in the business environment<br/>3. Reduction in the duration and frequency of service outages",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -823,7 +823,7 @@
         "1, 2 and 3 only",
         "1, 2 and 4 only"
       ],
-      "question": "A process owner is responsible for which of the following?\r\n\r\n1. Defining the process strategy\r\n2. Assisting with process design\r\n3. Improving the process\r\n4. Performing all activities involved in a process",
+      "question": "A process owner is responsible for which of the following?<br/><br/>1. Defining the process strategy<br/>2. Assisting with process design<br/>3. Improving the process<br/>4. Performing all activities involved in a process",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -859,7 +859,7 @@
         "2, 3 and 4 only",
         "All of the above"
       ],
-      "question": "Which of the following should be considered when designing measurement systems, methods and metrics?\r\n1. The services\r\n2. The architectures\r\n3. The configuration items\r\n4. The processes",
+      "question": "Which of the following should be considered when designing measurement systems, methods and metrics?<br/>1. The services<br/>2. The architectures<br/>3. The configuration items<br/>4. The processes",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -949,7 +949,7 @@
         "The service owner",
         "The customer"
       ],
-      "question": "Who is responsible for ensuring that the request fulfillment process is being performed according to the agreed\r\nand documented standard?",
+      "question": "Who is responsible for ensuring that the request fulfillment process is being performed according to the agreed<br/>and documented standard?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -985,7 +985,7 @@
         "2 only",
         "Neither of the above"
       ],
-      "question": "Which of the following identify the purpose of business relationship management?\r\n1. To establish and maintain a business relationship between service provider and customer\r\n2. To identify customer needs and ensure that the service provider is able to meet",
+      "question": "Which of the following identify the purpose of business relationship management?<br/>1. To establish and maintain a business relationship between service provider and customer<br/>2. To identify customer needs and ensure that the service provider is able to meet",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1021,7 +1021,7 @@
         "Service Operation",
         "Service Design"
       ],
-      "question": "Understanding what to measure and why it is being measured are key contributors to which part of the Service\r\nLifecycle?",
+      "question": "Understanding what to measure and why it is being measured are key contributors to which part of the Service<br/>Lifecycle?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1055,9 +1055,9 @@
         "What is the return on investment (ROI)?",
         "How much did it cost?",
         "How do we keep the momentum going?",
-        "What is the value on investment (VOI)?\r\n\r\nExam D"
+        "What is the value on investment (VOI)?<br/><br/>Exam D"
       ],
-      "question": "What would be the next step in the continual service improvement (CSI) model after?\r\n\r\n1. What is the vision?\r\n2. Where are we now?\r\n3. Where do we want to be?\r\n4. How do we get there?\r\n5. Did we get there?\r\n6. ?",
+      "question": "What would be the next step in the continual service improvement (CSI) model after?<br/><br/>1. What is the vision?<br/>2. Where are we now?<br/>3. Where do we want to be?<br/>4. How do we get there?<br/>5. Did we get there?<br/>6. ?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1165,7 +1165,7 @@
         "Supporting services",
         "Customer services"
       ],
-      "question": "What type of services are NOT directly used by the business but are required by the service provider to deliver\r\ncustomer facing services?",
+      "question": "What type of services are NOT directly used by the business but are required by the service provider to deliver<br/>customer facing services?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1183,7 +1183,7 @@
         "1, 2 and 3 only",
         "All of the above"
       ],
-      "question": "Which of the following areas would technology help to support during the service lifecycle?\r\n\r\n1. Data mining and workflow\r\n2. Measurement and reporting\r\n3. Release and deployment\r\n4. Process design",
+      "question": "Which of the following areas would technology help to support during the service lifecycle?<br/><br/>1. Data mining and workflow<br/>2. Measurement and reporting<br/>3. Release and deployment<br/>4. Process design",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1219,7 +1219,7 @@
         "A change request",
         "A change advisory board"
       ],
-      "question": "The addition, modification or removal of an authorized, planned or supported service or service component and\r\nits associated documentation is a definition of what?",
+      "question": "The addition, modification or removal of an authorized, planned or supported service or service component and<br/>its associated documentation is a definition of what?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1237,7 +1237,7 @@
         "A configuration management database (CMDB)",
         "The service knowledge management system (SKMS)"
       ],
-      "question": "Where should the following information be stored?\r\n\r\n1. The experience of staff\r\n2. Records of user behaviour\r\n3. Supplier's abilities and requirements\r\n4. User skill levels",
+      "question": "Where should the following information be stored?<br/><br/>1. The experience of staff<br/>2. Records of user behaviour<br/>3. Supplier's abilities and requirements<br/>4. User skill levels",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1255,7 +1255,7 @@
         "1, 2 and 4 only",
         "All of the above"
       ],
-      "question": "Which of the following statements about standard changes are CORRECT?\r\n\r\n1. The approach is pre-authorized\r\n2. The risk is usually low and well understood\r\n3. Details of the change will be recorded\r\n4. Some standard changes will be triggered by the request fulfilment process",
+      "question": "Which of the following statements about standard changes are CORRECT?<br/><br/>1. The approach is pre-authorized<br/>2. The risk is usually low and well understood<br/>3. Details of the change will be recorded<br/>4. Some standard changes will be triggered by the request fulfilment process",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1268,12 +1268,12 @@
         "A"
       ],
       "options": [
-        "Event management, incident management, problem management, request fulfillment, and access\r\n    management",
+        "Event management, incident management, problem management, request fulfillment, and access<br/>    management",
         "Event management, incident management, change management, and access management",
         "Incident management, problem management, service desk, request fulfillment, and event management",
         "Incident management, service desk, request fulfillment, access management, and event management"
       ],
-      "question": "Which one of the following provides the CORRECT list of processes within the service operation stage of the\r\nservice life-cycle?",
+      "question": "Which one of the following provides the CORRECT list of processes within the service operation stage of the<br/>service life-cycle?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1399,7 +1399,7 @@
         "2 and 4 only",
         "3 and 4 only"
       ],
-      "question": "Which of the following activities are performed by a service desk?\r\n\r\n1. Logging details of incidents and service requests\r\n2. Providing first-line investigation and diagnosis\r\n3. Restoring service\r\n4. Implementing all standard changes",
+      "question": "Which of the following activities are performed by a service desk?<br/><br/>1. Logging details of incidents and service requests<br/>2. Providing first-line investigation and diagnosis<br/>3. Restoring service<br/>4. Implementing all standard changes",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1415,7 +1415,7 @@
         "Strategic customers",
         "External customers",
         "Valued customers",
-        "Internal customers\r\n\r\nExam E"
+        "Internal customers<br/><br/>Exam E"
       ],
       "question": "What are customers of IT services who work in the same organization as the service provider known as?",
       "level": "100",
@@ -1453,7 +1453,7 @@
         "Service transition",
         "Service operation"
       ],
-      "question": "In which core ITIL publication can you find detailed descriptions of service catalogue management, information\r\nsecurity management, and supplier management?",
+      "question": "In which core ITIL publication can you find detailed descriptions of service catalogue management, information<br/>security management, and supplier management?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1489,7 +1489,7 @@
         "No: a known error record is created when the original incident is raised",
         "No: a known error record should be created with the next release of the service"
       ],
-      "question": "A known error has been created after diagnosis of a problem was complete but before a workaround has been\r\nfound. Is this a valid approach?",
+      "question": "A known error has been created after diagnosis of a problem was complete but before a workaround has been<br/>found. Is this a valid approach?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1507,7 +1507,7 @@
         "1 and 2 only",
         "2 and 3 only"
       ],
-      "question": "Which of the following provide value to the business from service strategy?\r\n\r\n1. Enabling the service provider to have a clear understanding of what levels of service will make their\r\ncustomers successful\r\n2. Enabling the service provider to respond quickly and effectively to changes in the business environment\r\n3. Support the creation of a portfolio of quantified services",
+      "question": "Which of the following provide value to the business from service strategy?<br/><br/>1. Enabling the service provider to have a clear understanding of what levels of service will make their<br/>customers successful<br/>2. Enabling the service provider to respond quickly and effectively to changes in the business environment<br/>3. Support the creation of a portfolio of quantified services",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1525,7 +1525,7 @@
         "1, 2 and 4 only",
         "All of the above"
       ],
-      "question": "Which of the following would be examined by a major problem review?\r\n\r\n1. Things that were done correctly\r\n2. Things that were done incorrectly\r\n3. How to prevent recurrence\r\n4. What could be done better in the future",
+      "question": "Which of the following would be examined by a major problem review?<br/><br/>1. Things that were done correctly<br/>2. Things that were done incorrectly<br/>3. How to prevent recurrence<br/>4. What could be done better in the future",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1543,7 +1543,7 @@
         "Defines which software should be installed on a particular piece of hardware",
         "Defines how version numbers should be used in a release"
       ],
-      "question": "Which one of the following is the BEST description of a relationship in service asset and configuration\r\nmanagement?",
+      "question": "Which one of the following is the BEST description of a relationship in service asset and configuration<br/>management?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1561,7 +1561,7 @@
         "1 and 2 only",
         "2 and 3 only"
       ],
-      "question": "Which of the following are sources of best practice?\r\n\r\n1. Academic research\r\n2. Internal experience\r\n3. Industry practices",
+      "question": "Which of the following are sources of best practice?<br/><br/>1. Academic research<br/>2. Internal experience<br/>3. Industry practices",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1579,7 +1579,7 @@
         "1 and 3 only",
         "2 and 4 only"
       ],
-      "question": "Which of these should a change model include?\r\n1. The steps that should be taken to handle the change\r\n2. Responsibilities; who should do what, including escalation\r\n3. Timescale's and thresholds for completion of the actions\r\n4. Complaints procedures",
+      "question": "Which of these should a change model include?<br/>1. The steps that should be taken to handle the change<br/>2. Responsibilities; who should do what, including escalation<br/>3. Timescale's and thresholds for completion of the actions<br/>4. Complaints procedures",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1615,7 +1615,7 @@
         "Both of the above",
         "Neither of the above"
       ],
-      "question": "Which of the following statements about service asset and configuration management is/are CORRECT?\r\n\r\n1. A configuration item (CI) can exits as part of any numbers other CIs at the same time\r\n2. Choosing which CIs to record will depend on the level of control an organization wishes to exert.",
+      "question": "Which of the following statements about service asset and configuration management is/are CORRECT?<br/><br/>1. A configuration item (CI) can exits as part of any numbers other CIs at the same time<br/>2. Choosing which CIs to record will depend on the level of control an organization wishes to exert.",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1633,7 +1633,7 @@
         "1, 2 and 4 only",
         "1, 2 and 3 only"
       ],
-      "question": "Which of the following are types of service defined in ITIL?\r\n\r\n1. Enabling\r\n2. Core\r\n3. Enhancing\r\n4. Computer",
+      "question": "Which of the following are types of service defined in ITIL?<br/><br/>1. Enabling<br/>2. Core<br/>3. Enhancing<br/>4. Computer",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1701,7 +1701,7 @@
       ],
       "options": [
         "A function responsibilities for facilities management and building control systems",
-        "A function that provides hardware repair services for technology involved in the delivery of service to\r\n\r\n    customers",
+        "A function that provides hardware repair services for technology involved in the delivery of service to<br/><br/>    customers",
         "Senior managers responsibilities for all staff within the technical support function",
         "A function that includes providing technical expertise and overall management of the IT infrastructure"
       ],
@@ -1736,10 +1736,10 @@
         "D"
       ],
       "options": [
-        "Management, control and prediction of the performance, utilization and capacity of individual elements of IT\r\n    technology",
+        "Management, control and prediction of the performance, utilization and capacity of individual elements of IT<br/>    technology",
         "Review of all capacity supplier agreements and underpinning contracts with supplier management",
-        "Management, control and prediction of the end-to-end performance and capacity of the live, operational IT\r\n\r\n    services",
-        "Future business requirements for IT services are quantified, designed, planned and implemented in a\r\n\r\n    timely fashion"
+        "Management, control and prediction of the end-to-end performance and capacity of the live, operational IT<br/><br/>    services",
+        "Future business requirements for IT services are quantified, designed, planned and implemented in a<br/><br/>    timely fashion"
       ],
       "question": "What is the primary focus of the business management?",
       "level": "100",
@@ -1759,7 +1759,7 @@
         "Financial management for IT services",
         "Service catalog management"
       ],
-      "question": "Which process has the purpose to ensure that, by managing the risks could seriously affect IT services, the IT\r\nservice provider can always provide minimum agreed business-related service levels?",
+      "question": "Which process has the purpose to ensure that, by managing the risks could seriously affect IT services, the IT<br/>service provider can always provide minimum agreed business-related service levels?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1775,7 +1775,7 @@
         "A request from a user for information, advice or for a standard change",
         "Anything that the customer wants and is prepared to pay for",
         "Any request or demand that is entered by a user via a self-help web-based interface",
-        "Any request for change (RFC) that is low-risk and which can be approved by the change manager without a\r\n\r\n    change advisory board (CAB) meeting\r\n\r\nExam F"
+        "Any request for change (RFC) that is low-risk and which can be approved by the change manager without a<br/><br/>    change advisory board (CAB) meeting<br/><br/>Exam F"
       ],
       "question": "Which one of the following is the BEST description of a service request?",
       "level": "100",
@@ -1795,7 +1795,7 @@
         "Service catalogue management",
         "Problem management"
       ],
-      "question": "Which process is involved in monitoring an IT service and detecting when the performance drops below\r\nacceptable limits?",
+      "question": "Which process is involved in monitoring an IT service and detecting when the performance drops below<br/>acceptable limits?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1881,7 +1881,7 @@
       ],
       "options": [
         "A secure location where definitive hardware spares are held",
-        "A secure library where definitive authorized versions of all media configuration items (CIs) are stored and\r\n\r\n    protected",
+        "A secure library where definitive authorized versions of all media configuration items (CIs) are stored and<br/><br/>    protected",
         "A database that contains definitions of all media CIs",
         "A secure library where definitive authorized versions of all software and back-ups are stored and protected"
       ],
@@ -1916,7 +1916,7 @@
         "B"
       ],
       "options": [
-        "To ensure that a service can be managed and operated in accordance with constraints specified during\r\n    design",
+        "To ensure that a service can be managed and operated in accordance with constraints specified during<br/>    design",
         "To design and develop capabilities for service management",
         "To provide good-quality knowledge and information about services",
         "To plan the resources required to manage a release"
@@ -1939,7 +1939,7 @@
         "1, 3 and 4 only",
         "1 and 3 only"
       ],
-      "question": "Which of the following are managed by facilities management?\r\n\r\n1. Hardware within a data centre or computer room\r\n2. Applications\r\n3. Power and cooling equipment\r\n4. Recovery sites",
+      "question": "Which of the following are managed by facilities management?<br/><br/>1. Hardware within a data centre or computer room<br/>2. Applications<br/>3. Power and cooling equipment<br/>4. Recovery sites",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -1975,7 +1975,7 @@
         "2, 3 and 4 only",
         "All of the above"
       ],
-      "question": "Which areas of service management can benefit from automation?\r\n\r\n1. Design and modeling\r\n2. Reporting\r\n3. Pattern recognition and analysis\r\n4. Detection and monitoring",
+      "question": "Which areas of service management can benefit from automation?<br/><br/>1. Design and modeling<br/>2. Reporting<br/>3. Pattern recognition and analysis<br/>4. Detection and monitoring",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2025,7 +2025,7 @@
       ],
       "options": [
         "To standardize methods and procedures used for efficient and prompt handling of all changes",
-        "To ensure all changes to service assets and configuration items (CIs) are recorded in the configuration\r\n\r\n    management system (CMS)",
+        "To ensure all changes to service assets and configuration items (CIs) are recorded in the configuration<br/><br/>    management system (CMS)",
         "To ensure that the overall business risk of change is optimized",
         "To define and agree release and deployment plans with customers and stakeholders"
       ],
@@ -2065,7 +2065,7 @@
         "People, process, products, partners",
         "People, products, perspective, partners"
       ],
-      "question": "Implementation of ITIL service management requires the preparation and planning of the effective and efficient\r\nuse of \"the four Ps.\" What are these four Ps?",
+      "question": "Implementation of ITIL service management requires the preparation and planning of the effective and efficient<br/>use of \"the four Ps.\" What are these four Ps?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2083,7 +2083,7 @@
         "2, 3 and 4 only",
         "1, 3 and 4 only"
       ],
-      "question": "Which of the following should IT service continuity strategy be based on?\r\n\r\n1. Design of the service metrics\r\n2. Business continuity strategy\r\n3. Business impact analysis (BIA)\r\n4. Risk assessment",
+      "question": "Which of the following should IT service continuity strategy be based on?<br/><br/>1. Design of the service metrics<br/>2. Business continuity strategy<br/>3. Business impact analysis (BIA)<br/>4. Risk assessment",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2135,7 +2135,7 @@
         "To negotiate service levels for new services",
         "To ensure that service changes create the expected business value",
         "To minimize the impact of service outages on day-to-day business activities",
-        "To plan and manage entries in the service catalogue\r\n\r\nExam G"
+        "To plan and manage entries in the service catalogue<br/><br/>Exam G"
       ],
       "question": "Which one of the following is an objective of service transition?",
       "level": "100",
@@ -2173,7 +2173,7 @@
         "To design and build processes which will meet business needs",
         "To deliver and manage IT services at agreed levels to business users and customers"
       ],
-      "question": "Which one of the following is the BEST description of the purpose of the service operation stage of the service\r\nlifecycle?",
+      "question": "Which one of the following is the BEST description of the purpose of the service operation stage of the service<br/>lifecycle?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2209,7 +2209,7 @@
         "1 only",
         "2 only"
       ],
-      "question": "Which of the following availability management activities is/are considered to be proactive as opposed to\r\nreactive?\r\n\r\n1. Monitoring system availability\r\n2. Designing availability into a proposed solution",
+      "question": "Which of the following availability management activities is/are considered to be proactive as opposed to<br/>reactive?<br/><br/>1. Monitoring system availability<br/>2. Designing availability into a proposed solution",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2245,7 +2245,7 @@
         "Corporate level",
         "Configuration level"
       ],
-      "question": "The multi-level SLA' is a three-layer structure. Which one of the following layers is NOT part of this type of\r\nSLA?",
+      "question": "The multi-level SLA' is a three-layer structure. Which one of the following layers is NOT part of this type of<br/>SLA?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2281,7 +2281,7 @@
         "Incident management",
         "Service asset and configuration management"
       ],
-      "question": "Which process is responsible for controlling, recording and reporting on the relationships between components\r\nof the IT infrastructure?",
+      "question": "Which process is responsible for controlling, recording and reporting on the relationships between components<br/>of the IT infrastructure?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2335,7 +2335,7 @@
         "3 only",
         "All of the above"
       ],
-      "question": "Which of the following is an objective/are objectives of the service strategy stage of the service lifecycle?\r\n\r\n1. Providing an understanding of what strategy is\r\n2. Ensuring a working relationship between the customer and service provider\r\n3. Defining how value is created",
+      "question": "Which of the following is an objective/are objectives of the service strategy stage of the service lifecycle?<br/><br/>1. Providing an understanding of what strategy is<br/>2. Ensuring a working relationship between the customer and service provider<br/>3. Defining how value is created",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2353,7 +2353,7 @@
         "Option 1 only",
         "Option 2 only"
       ],
-      "question": "In which of the following areas would ITIL complementary guidance provide assistance?\r\n\r\n1. Adapting best practice for specific industry sectors\r\n2. Integrating ITIL with other operating models",
+      "question": "In which of the following areas would ITIL complementary guidance provide assistance?<br/><br/>1. Adapting best practice for specific industry sectors<br/>2. Integrating ITIL with other operating models",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2402,12 +2402,12 @@
         "A"
       ],
       "options": [
-        "Event management, incident management, problem management, request fulfillment, and access\r\n    management",
+        "Event management, incident management, problem management, request fulfillment, and access<br/>    management",
         "Event management, incident management, change management, and access management.",
         "Incident management, problem management, service desk, request fulfillment, and event management",
         "Incident management, service desk, request fulfillment, access management, and event management"
       ],
-      "question": "Which one of the following provides the CORRECT list of processes within the service operation stage of the\r\nservice lifecycle?",
+      "question": "Which one of the following provides the CORRECT list of processes within the service operation stage of the<br/>service lifecycle?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2425,7 +2425,7 @@
         "2 and 4 only",
         "3 and 4 only"
       ],
-      "question": "Which of the following activities are performed by a desk?\r\n\r\n1. Logging details of incidents and service requests\r\n2. Providing first-line investigation and diagnosis\r\n3. Restoring service\r\n4. Implementing all standard changes",
+      "question": "Which of the following activities are performed by a desk?<br/><br/>1. Logging details of incidents and service requests<br/>2. Providing first-line investigation and diagnosis<br/>3. Restoring service<br/>4. Implementing all standard changes",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2461,7 +2461,7 @@
         "1, 2 and 4 only",
         "3 and 4 only"
       ],
-      "question": "Which of the following are within the scope of service asset and configuration management?\r\n\r\n1. Identification of configuration items (CIs)\r\n2. Recording relationships between CIs\r\n3. Recording and control of virtual CIs\r\n4. Approving finance for the purchase of software to support service asset and configuration management",
+      "question": "Which of the following are within the scope of service asset and configuration management?<br/><br/>1. Identification of configuration items (CIs)<br/>2. Recording relationships between CIs<br/>3. Recording and control of virtual CIs<br/>4. Approving finance for the purchase of software to support service asset and configuration management",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2479,7 +2479,7 @@
         "Continual service improvement",
         "Service strategy"
       ],
-      "question": "Looking for ways to improve process efficiency and cost effectiveness is a purpose of which part of the service\r\nlifecycle?",
+      "question": "Looking for ways to improve process efficiency and cost effectiveness is a purpose of which part of the service<br/>lifecycle?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2495,9 +2495,9 @@
         "Where are we now?",
         "Where do we want to be?",
         "How do we get there?",
-        "Did we get there?\r\n\r\nExam H"
+        "Did we get there?<br/><br/>Exam H"
       ],
-      "question": "Which stage of the continual service improvement (CSI) approach is BEST described by the phrase\r\n'Understand and agree on the priorities for improvement based on a deeper development of the principles\r\ndefined in the vision'?",
+      "question": "Which stage of the continual service improvement (CSI) approach is BEST described by the phrase<br/>'Understand and agree on the priorities for improvement based on a deeper development of the principles<br/>defined in the vision'?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2515,7 +2515,7 @@
         "Demand management",
         "Risk management"
       ],
-      "question": "Which of the following processes contributes MOST to quantifying the financial value of IT services to the\r\nbusiness?",
+      "question": "Which of the following processes contributes MOST to quantifying the financial value of IT services to the<br/>business?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2654,9 +2654,9 @@
         "A"
       ],
       "options": [
-        "Provide a single point of control for all activities and processes within the service design stage of the\r\n    lifecycle",
+        "Provide a single point of control for all activities and processes within the service design stage of the<br/>    lifecycle",
         "Ensuring all service designs have availability designed into them",
-        "Designing of all the links between every service design process and all other processes in the service\r\n\r\n    lifecycle",
+        "Designing of all the links between every service design process and all other processes in the service<br/><br/>    lifecycle",
         "Control of all supplier relationships from design right through to the production environment"
       ],
       "question": "Which of the following identifies the purpose of design coordination?",
@@ -2677,7 +2677,7 @@
         "Service level management",
         "Change management"
       ],
-      "question": "Which process has the following objective, 'Produce service design packages (SDPs) based on service\r\ncharters and change requests'?",
+      "question": "Which process has the following objective, 'Produce service design packages (SDPs) based on service<br/>charters and change requests'?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2695,7 +2695,7 @@
         "1 and 2 only",
         "2 and 3 only"
       ],
-      "question": "Which of the following activities would be performed by a process manager?\r\n\r\n1. Monitoring and reporting on process performance\r\n2. Identifying improvement opportunities\r\n3. Appointing people to required roles",
+      "question": "Which of the following activities would be performed by a process manager?<br/><br/>1. Monitoring and reporting on process performance<br/>2. Identifying improvement opportunities<br/>3. Appointing people to required roles",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2731,7 +2731,7 @@
         "Neither of the above",
         "2 only"
       ],
-      "question": "Which of the following statements is CORRECT for every process?\r\n1. It delivers its primary results to a customer or stakeholder\r\n2. It defines activities that are executed by a single function",
+      "question": "Which of the following statements is CORRECT for every process?<br/>1. It delivers its primary results to a customer or stakeholder<br/>2. It defines activities that are executed by a single function",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2749,7 +2749,7 @@
         "2 only",
         "Neither of the above"
       ],
-      "question": "Which of the following should be done when closing an incident?\r\n\r\n1. Check the incident categorization and correct it if necessary\r\n2. Check that the user is satisfied with the outcome",
+      "question": "Which of the following should be done when closing an incident?<br/><br/>1. Check the incident categorization and correct it if necessary<br/>2. Check that the user is satisfied with the outcome",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2803,7 +2803,7 @@
         "1 and 3 only",
         "All of the above"
       ],
-      "question": "Which of the following are valid parts of the service portfolio?\r\n\r\n1. Service pipeline\r\n2. Service knowledge management system (SKMS)\r\n3. Service catalogue",
+      "question": "Which of the following are valid parts of the service portfolio?<br/><br/>1. Service pipeline<br/>2. Service knowledge management system (SKMS)<br/>3. Service catalogue",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2821,7 +2821,7 @@
         "None of the above",
         "All of the above"
       ],
-      "question": "A Service design package (SDP) would normally be produced for which of the following?\r\n\r\n1. A new IT service\r\n2. A major change to an IT service\r\n3. An emergency change to an IT service\r\n4. An IT service retirement",
+      "question": "A Service design package (SDP) would normally be produced for which of the following?<br/><br/>1. A new IT service<br/>2. A major change to an IT service<br/>3. An emergency change to an IT service<br/>4. An IT service retirement",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2839,7 +2839,7 @@
         "1 and 3 only",
         "None of the above"
       ],
-      "question": "Which of the following are benefits to the business of implementing service transition?\r\n\r\n1. Better reuse and sharing of assets across projects and resources\r\n2. Reduced cost to design new services\r\n3. Result in higher volume of successful changes",
+      "question": "Which of the following are benefits to the business of implementing service transition?<br/><br/>1. Better reuse and sharing of assets across projects and resources<br/>2. Reduced cost to design new services<br/>3. Result in higher volume of successful changes",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2855,9 +2855,9 @@
         "All of the above",
         "3 and 4 only",
         "2 and 4 only",
-        "2 only\r\n\r\nExam I"
+        "2 only<br/><br/>Exam I"
       ],
-      "question": "Which of the following processes are performed by the service desk?\r\n\r\n1. Capacity management\r\n2. Request fulfillment\r\n3. Demand management\r\n4. Incident management",
+      "question": "Which of the following processes are performed by the service desk?<br/><br/>1. Capacity management<br/>2. Request fulfillment<br/>3. Demand management<br/>4. Incident management",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2911,7 +2911,7 @@
         "Prioritization",
         "Escalation"
       ],
-      "question": "Which problem management activity ensures that a problem can be easily tracked and management\r\ninformation can be obtained?",
+      "question": "Which problem management activity ensures that a problem can be easily tracked and management<br/>information can be obtained?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2929,7 +2929,7 @@
         "Change management",
         "Event management"
       ],
-      "question": "Which process is responsible for eliminating recurring incidents and minimizing the impact of incidents that\r\ncannot be prevented?",
+      "question": "Which process is responsible for eliminating recurring incidents and minimizing the impact of incidents that<br/>cannot be prevented?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -2961,7 +2961,7 @@
       ],
       "options": [
         "The desk is co-located within or physically close to the user community it serves",
-        "The desk uses technology and other support tools to give the impression that multiple desk locations are in\r\n\r\n    one place",
+        "The desk uses technology and other support tools to give the impression that multiple desk locations are in<br/><br/>    one place",
         "The desk provides 24 hour global support",
         "There is a single desk in one location serving the whole organization"
       ],
@@ -3068,10 +3068,10 @@
         "D"
       ],
       "options": [
-        "Management, control and prediction of the performance, utilization and capacity of individual elements of IT\r\n    technology",
+        "Management, control and prediction of the performance, utilization and capacity of individual elements of IT<br/>    technology",
         "Review of all capacity supplier agreements and underpinning contracts with supplier management",
-        "Management, control and prediction of the end-to-end performance and capacity of the live, operational IT\r\n\r\n    services",
-        "Future business requirements for IT services are quantified, designed, planned and implemented in a\r\n\r\n    timely fashion"
+        "Management, control and prediction of the end-to-end performance and capacity of the live, operational IT<br/><br/>    services",
+        "Future business requirements for IT services are quantified, designed, planned and implemented in a<br/><br/>    timely fashion"
       ],
       "question": "What is the primary focus of business capacity management?",
       "level": "100",
@@ -3215,7 +3215,7 @@
         "Allows higher volumes of successful change",
         "Reduction in unplanned costs through optimized handling of service outages",
         "Reduction in the duration and frequency of service outages",
-        "Enabling the service provider to have a clear understanding of what levels of service will make their\r\n\r\n    customers successful\r\n\r\nExam J"
+        "Enabling the service provider to have a clear understanding of what levels of service will make their<br/><br/>    customers successful<br/><br/>Exam J"
       ],
       "question": "Which of the following BEST describes service strategies value to the business?",
       "level": "100",
@@ -3253,7 +3253,7 @@
         "Service request",
         "Risk register"
       ],
-      "question": "Which of the following would be used to communicate a high level description of a major change that involved\r\nsignificant cost and risk to the organization?",
+      "question": "Which of the following would be used to communicate a high level description of a major change that involved<br/>significant cost and risk to the organization?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3271,7 +3271,7 @@
         "Both of the above",
         "Neither of the above"
       ],
-      "question": "Which of the following should be documented in an incident model?\r\n1. Details of the service level agreement (SLA) pertaining to the incident\r\n2. Chronological order of steps to resolve the incident",
+      "question": "Which of the following should be documented in an incident model?<br/>1. Details of the service level agreement (SLA) pertaining to the incident<br/>2. Chronological order of steps to resolve the incident",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3325,7 +3325,7 @@
         "Demand management",
         "Service transition"
       ],
-      "question": "Which process is responsible for recording the current details, status, interfaces and dependencies of all\r\nservices that are being run or being prepared to run in the live environment?",
+      "question": "Which process is responsible for recording the current details, status, interfaces and dependencies of all<br/>services that are being run or being prepared to run in the live environment?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3361,7 +3361,7 @@
         "Critical success factors (CSFs), key performance indicators (KPIs), activities",
         "Technology, process and service"
       ],
-      "question": "What are the three types of metrics that an organization should collect to support continual service\r\nimprovement (CSI)?",
+      "question": "What are the three types of metrics that an organization should collect to support continual service<br/>improvement (CSI)?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3379,7 +3379,7 @@
         "1 and 2 only",
         "2 and 3 only"
       ],
-      "question": "Which of the following are classed as stakeholders in service management?\r\n\r\n1. Customers\r\n2. Users\r\n3. Suppliers",
+      "question": "Which of the following are classed as stakeholders in service management?<br/><br/>1. Customers<br/>2. Users<br/>3. Suppliers",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3397,7 +3397,7 @@
         "Supplier",
         "Administrator"
       ],
-      "question": "From the perspective of the service provider, what is the person or group who defines or and agrees their\r\nservice targets known as?",
+      "question": "From the perspective of the service provider, what is the person or group who defines or and agrees their<br/>service targets known as?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3574,8 +3574,8 @@
       "options": [
         "To ensure the impact of changes are understood",
         "To ensure that changes are recorded and evaluated",
-        "To ensure that all changes to configuration items (CIs) are recorded in the configuration management\r\n\r\n    system (CMS)",
-        "To deliver and manage IT services at agreed levels to business users\r\n\r\nExam K"
+        "To ensure that all changes to configuration items (CIs) are recorded in the configuration management<br/><br/>    system (CMS)",
+        "To deliver and manage IT services at agreed levels to business users<br/><br/>Exam K"
       ],
       "question": "Which one of the following is NOT an aim of the change management process?",
       "level": "100",
@@ -3613,7 +3613,7 @@
         "Change baseline",
         "Asset baseline"
       ],
-      "question": "What type of baseline captures the structure, contents and details of the infrastructure and represents a set of\r\nitems that are related to each other?",
+      "question": "What type of baseline captures the structure, contents and details of the infrastructure and represents a set of<br/>items that are related to each other?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3649,7 +3649,7 @@
         "1 and 2 only",
         "2 and 3 only"
       ],
-      "question": "Which of the following are reasons why ITIL is successful?\r\n\r\n1. ITIL is vendor neutral\r\n2. It does not prescribe actions\r\n3. ITIL represents best practice",
+      "question": "Which of the following are reasons why ITIL is successful?<br/><br/>1. ITIL is vendor neutral<br/>2. It does not prescribe actions<br/>3. ITIL represents best practice",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3757,7 +3757,7 @@
         "Knowledge",
         "Governance"
       ],
-      "question": "The experiences, ideas, insights and values of individuals are examples of which level of understanding within\r\nknowledge management?",
+      "question": "The experiences, ideas, insights and values of individuals are examples of which level of understanding within<br/>knowledge management?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3775,7 +3775,7 @@
         "A service design package (SDP)",
         "A service charter"
       ],
-      "question": "Which one of the following contains information that is passed to service transition to enable the\r\nimplementation of a new service?",
+      "question": "Which one of the following contains information that is passed to service transition to enable the<br/>implementation of a new service?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3793,7 +3793,7 @@
         "2 and 3 only",
         "All of the above"
       ],
-      "question": "Which of the following would commonly be found in a contract underpinning an IT service?\r\n\r\n1. Financial arrangements related to the contract\r\n2. Description of the goods or service provided\r\n3. Responsibilities and dependencies for both parties",
+      "question": "Which of the following would commonly be found in a contract underpinning an IT service?<br/><br/>1. Financial arrangements related to the contract<br/>2. Description of the goods or service provided<br/>3. Responsibilities and dependencies for both parties",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3845,9 +3845,9 @@
         "Availability management",
         "Capacity management",
         "Service portfolio management",
-        "Service catalogue management\r\n\r\nExam L"
+        "Service catalogue management<br/><br/>Exam L"
       ],
-      "question": "Which process would be used to compare the value that newer services have offered over those they have\r\nreplaced?",
+      "question": "Which process would be used to compare the value that newer services have offered over those they have<br/>replaced?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3883,7 +3883,7 @@
         "The Service Owner",
         "The Customer"
       ],
-      "question": "Who is responsible for ensuring that the Request Fulfilment process is being performed according to the\r\nagreed and documented process?",
+      "question": "Who is responsible for ensuring that the Request Fulfilment process is being performed according to the<br/>agreed and documented process?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3973,7 +3973,7 @@
         "4 Plan, 3 Do, 1 Check, 2 Act",
         "2 Plan, 3 Do, 4 Check, 1 Act"
       ],
-      "question": "Match the following activities with the Deming Cycle stages\r\n\r\n1. Monitor, Measure and Review\r\n2. Continual Improvement\r\n3. Implement Initiatives\r\n4. Plan for Improvement",
+      "question": "Match the following activities with the Deming Cycle stages<br/><br/>1. Monitor, Measure and Review<br/>2. Continual Improvement<br/>3. Implement Initiatives<br/>4. Plan for Improvement",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -3991,7 +3991,7 @@
         "Both of the above",
         "None of the above"
       ],
-      "question": "Which of the following statements about communication within Service Operation are CORRECT?\r\n\r\n1. All communication must have an intended purpose or resultant action\r\n2. Communication should not take place without a clear audience",
+      "question": "Which of the following statements about communication within Service Operation are CORRECT?<br/><br/>1. All communication must have an intended purpose or resultant action<br/>2. Communication should not take place without a clear audience",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4007,7 +4007,7 @@
         "An unplanned disruption of service unless there is a backup to that service",
         "An unplanned interruption to service or a reduction in the quality of service",
         "Any disruption to service whether planned or unplanned",
-        "Any disruption to service that is reported to the Service Desk, regardless of whether the service is impacted\r\n\r\n    or not"
+        "Any disruption to service that is reported to the Service Desk, regardless of whether the service is impacted<br/><br/>    or not"
       ],
       "question": "The BEST description of an Incident is:",
       "level": "100",
@@ -4027,7 +4027,7 @@
         "Continual Service Improvement",
         "Service Strategy"
       ],
-      "question": "Looking for ways to improve process efficiency and cost effectiveness is a purpose of which part of the service\r\nlifecycle?",
+      "question": "Looking for ways to improve process efficiency and cost effectiveness is a purpose of which part of the service<br/>lifecycle?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4099,7 +4099,7 @@
         "2, 3 and 4 only",
         "None of the above"
       ],
-      "question": "Which of the following are objectives of Supplier Management?\r\n\r\n1. Negotiating and agreeing Contracts\r\n2. Updating the Supplier and Contract database\r\n3. Planning for possible closure, renewal or extension of contracts\r\n4. Managing relationships with internal suppliers",
+      "question": "Which of the following are objectives of Supplier Management?<br/><br/>1. Negotiating and agreeing Contracts<br/>2. Updating the Supplier and Contract database<br/>3. Planning for possible closure, renewal or extension of contracts<br/>4. Managing relationships with internal suppliers",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4115,7 +4115,7 @@
         "Processes and functions",
         "Maturity and cost",
         "The end to end service",
-        "Infrastructure availability\r\n\r\nReal Exam Que"
+        "Infrastructure availability<br/><br/>Real Exam Que"
       ],
       "question": "Which of the following do Service Metrics measure?",
       "level": "100",
@@ -4132,7 +4132,7 @@
       "options": [
         "Designing and maintaining all necessary service transition packages",
         "Producing quality, secure and resilient designs for new or improved services",
-        "Taking service strategies and ensuring they are reflected in the service design processes and the service\r\n\r\n    designs that are produced",
+        "Taking service strategies and ensuring they are reflected in the service design processes and the service<br/><br/>    designs that are produced",
         "Measuring the effectiveness and efficiency of service design and the supporting processes"
       ],
       "question": "Which one of the following is NOT part of the service design stage of the service lifecycle?",
@@ -4153,7 +4153,7 @@
         "The change implementer",
         "The change manager"
       ],
-      "question": "What body exists to support the authorization of changes and to assist change management in the assessment\r\nand prioritization of changes?",
+      "question": "What body exists to support the authorization of changes and to assist change management in the assessment<br/>and prioritization of changes?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4225,7 +4225,7 @@
         "2, 3 and 4 only",
         "All of the above"
       ],
-      "question": "Which of the following should be considered when designing measurement systems, methods and metrics?\r\n1. The services\r\n2. The architectures\r\n3. The configuration items\r\n4. The processes",
+      "question": "Which of the following should be considered when designing measurement systems, methods and metrics?<br/>1. The services<br/>2. The architectures<br/>3. The configuration items<br/>4. The processes",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4261,7 +4261,7 @@
         "Service Operation",
         "Service Design"
       ],
-      "question": "Understanding what to measure and why it is being measured are key contributors to which part of the Service\r\nLifecycle?",
+      "question": "Understanding what to measure and why it is being measured are key contributors to which part of the Service<br/>Lifecycle?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4279,7 +4279,7 @@
         "1 and 3 only",
         "2 and 4 only"
       ],
-      "question": "Which of these should a change model include?\r\n1. The steps that should be taken to handle the change\r\n2. Responsibilities; who should do what, including escalation\r\n3. Timescales and thresholds for completion of the actions\r\n4. Complaints procedures",
+      "question": "Which of these should a change model include?<br/>1. The steps that should be taken to handle the change<br/>2. Responsibilities; who should do what, including escalation<br/>3. Timescales and thresholds for completion of the actions<br/>4. Complaints procedures",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4315,7 +4315,7 @@
         "Both of the above",
         "Neither of the above"
       ],
-      "question": "Which of the following statements about service asset and configuration management is/are CORRECT?\r\n\r\n1. A configuration item (CI) can exits as part of any numbers other CIs at the same time\r\n2. Choosing which CIs to record will depend on the level of control an organization wishes to exert.",
+      "question": "Which of the following statements about service asset and configuration management is/are CORRECT?<br/><br/>1. A configuration item (CI) can exits as part of any numbers other CIs at the same time<br/>2. Choosing which CIs to record will depend on the level of control an organization wishes to exert.",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4333,7 +4333,7 @@
         "1, 2 and 4 only",
         "1, 2 and 3 only"
       ],
-      "question": "Which of the following are types of service defined in ITIL?\r\n\r\n1. Enabling\r\n2. Core\r\n3. Enhancing\r\n4. Computer",
+      "question": "Which of the following are types of service defined in ITIL?<br/><br/>1. Enabling<br/>2. Core<br/>3. Enhancing<br/>4. Computer",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4383,7 +4383,7 @@
       ],
       "options": [
         "A function responsibilities for facilities management and building control systems",
-        "A function that provides hardware repair services for technology involved in the delivery of service to\r\n\r\n    customers",
+        "A function that provides hardware repair services for technology involved in the delivery of service to<br/><br/>    customers",
         "Senior managers responsibilities for all staff within the technical support function",
         "A function that includes providing technical expertise and overall management of the IT infrastructure"
       ],
@@ -4418,10 +4418,10 @@
         "D"
       ],
       "options": [
-        "Management, control and prediction of the performance, utilization and capacity of individual elements of IT\r\n    technology",
+        "Management, control and prediction of the performance, utilization and capacity of individual elements of IT<br/>    technology",
         "Review of all capacity supplier agreements and underpinning contracts with supplier management",
-        "Management, control and prediction of the end-to-end performance and capacity of the live, operational IT\r\n\r\n    services",
-        "Future business requirements for IT services are quantified, designed, planned and implemented in a\r\n\r\n    timely fashion"
+        "Management, control and prediction of the end-to-end performance and capacity of the live, operational IT<br/><br/>    services",
+        "Future business requirements for IT services are quantified, designed, planned and implemented in a<br/><br/>    timely fashion"
       ],
       "question": "What is the primary focus of the business management?",
       "level": "100",
@@ -4441,7 +4441,7 @@
         "Financial management for IT services",
         "Service catalog management"
       ],
-      "question": "Which process has the purpose to ensure that, by managing the risks could seriously affect IT services, the IT\r\nservice provider can always provide minimum agreed business-related service levels?",
+      "question": "Which process has the purpose to ensure that, by managing the risks could seriously affect IT services, the IT<br/>service provider can always provide minimum agreed business-related service levels?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4490,7 +4490,7 @@
         "B"
       ],
       "options": [
-        "To ensure that a service can be managed and operated in accordance with constraints specified during\r\n    design",
+        "To ensure that a service can be managed and operated in accordance with constraints specified during<br/>    design",
         "To design and develop capabilities for service management",
         "To provide good-quality knowledge and information about services",
         "To plan the resources required to manage a release"
@@ -4531,7 +4531,7 @@
         "2, 3 and 4 only",
         "All of the above"
       ],
-      "question": "Which areas of service management can benefit from automation?\r\n\r\n1. Design and modeling\r\n2. Reporting\r\n3. Pattern recognition and analysis\r\n4. Detection and monitoring",
+      "question": "Which areas of service management can benefit from automation?<br/><br/>1. Design and modeling<br/>2. Reporting<br/>3. Pattern recognition and analysis<br/>4. Detection and monitoring",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4621,7 +4621,7 @@
         "Continual service improvement",
         "Service strategy"
       ],
-      "question": "Looking for ways to improve process efficiency and cost effectiveness is a purpose of which part of the service\r\nlifecycle?",
+      "question": "Looking for ways to improve process efficiency and cost effectiveness is a purpose of which part of the service<br/>lifecycle?",
       "level": "100",
       "reference": "",
       "type": "mcq",
@@ -4747,7 +4747,7 @@
         "Service request",
         "Risk register"
       ],
-      "question": "Which of the following would be used to communicate a high level description of a major change that involved\r\nsignificant cost and risk to the organization?",
+      "question": "Which of the following would be used to communicate a high level description of a major change that involved<br/>significant cost and risk to the organization?",
       "level": "100",
       "reference": "",
       "type": "mcq",
