@@ -1,0 +1,4319 @@
+{
+  "name": "PRINCE2 Foundations",
+  "passingScore": 800,
+  "number": "000-000",
+  "version": "1.0",
+  "timeLimit": 120,
+  "date": "2015-03-10T00:00:00+00:00",
+  "url": "",
+  "scorePerQuestion": 1,
+  "description": "[No description given]",
+  "scopes": [
+    {
+      "name": "Default",
+      "questions": 70,
+      "scorePerQuestion": 1.0,
+      "passCount": 35,
+      "passScore": 0,
+      "timeLimit": 60
+    }
+  ],
+  "questions": [
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Project Initiation Document",
+        "Business Case",
+        "End Stage Approval",
+        "Project Brief"
+      ],
+      "question": "In PRINCE2 what product is used to define the information that justifies the setting up,\r\ncontinuation or termination of the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Request Log",
+        "Daily Log",
+        "Quality Log",
+        "Issue Log"
+      ],
+      "question": "Which product keeps track of Requests For Change?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Project and stage tolerances",
+        "Contingency plans",
+        "A Change Budget",
+        "Adding a contingency margin to estimates"
+      ],
+      "question": "What provision in Planning can be made for implementing Requests for Change?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "TheCustomer'sNeds",
+        "An Agreed Contract",
+        "The Project Plan",
+        "A specified Business Case"
+      ],
+      "question": "FilL in the missing phrase from\" a project is a management environment that is created\r\nfor the purpose of delivering one or more business products according to......\"",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "a, b, c",
+        "b, c, a",
+        "c, a, b",
+        "c, b, a"
+      ],
+      "question": "In what sequence would the (a) Project Initiation Document, (b) the Project Mandate\r\nand (c) the Project Brief appear in a PRINCE2 project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "When a Project Issue is received",
+        "When a Project Board member raises a complaint",
+        "When a Request For Change or Off-Specification has been received",
+        "When the current forecasts for the end of the stage deviate beyond the delegated\r\n\r\n    tolerance bounds"
+      ],
+      "question": "Which would require the production of an Exception Report?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "provides a useful opportunity to take stock of achievements",
+        "provides an opportunity to ensure that all unachieved goals and objectives are identified",
+        "provides the opportunity to evaluate achievement of all the expected benefits",
+        "is always more successful than the natural tendency to drift into operational Management"
+      ],
+      "question": "Which statement is NOT a fundamental principle of\" Closing a Project\"? \"A clear end\r\nto a project\"�",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Item",
+        "Package",
+        "Product",
+        "Component"
+      ],
+      "question": "What is the more common term used in PRINCE2TM for\" deliverable\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Exception Assessment",
+        "Highlight Reports",
+        "Project Closure",
+        "Work Package Authorisation"
+      ],
+      "question": "Which of these items does NOT involve the Project Board?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Allowance",
+        "Contingency",
+        "Concession",
+        "Tolerance"
+      ],
+      "question": "What name is given to the permissible deviation from a plan allowed without immediate reporting to the Project\r\nBoard?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Risk Management",
+        "Project Closure",
+        "Change Control",
+        "Project Initiation"
+      ],
+      "question": "What other control is closely linked with configuration management?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Starting Up a Project (SU)",
+        "Initiating a Project (IP)",
+        "Managing Stage Boundaries (SB)",
+        "Controlling a Stage (CS)"
+      ],
+      "question": "Which of these processes does NOT trigger the Planning (PL) process?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Quality",
+        "Specialist",
+        "Technical",
+        "Management"
+      ],
+      "question": "In a Product Breakdown Structure what category of product is a Highlight Report?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "An Exception Report is made",
+        "A Project Issue is raised",
+        "An Exception Memo is raised",
+        "The review is reconvened"
+      ],
+      "question": "If, after a Quality Review Follow-up Action, an error is still not resolved, what action\r\nshould be taken?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Has an organisation structure",
+        "Produces defined and measurable business products",
+        "Uses a defined amount of resources",
+        "Uses a defined set of techniques"
+      ],
+      "question": "Which of the following is NOT a PRINCE2 definition of a project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "A fixed-PRICE contract",
+        "A Customer/Supplier environment",
+        "A specialist environment",
+        "A third-party environment"
+      ],
+      "question": "What environment does PRINCE2 assume?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Work Package",
+        "Product Description",
+        "Checkpoint Report",
+        "Configuration Management"
+      ],
+      "question": "Which feature of PRINCE2 tells the Project Manager where a product is, what its status is and who is working\r\non it?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "To provide useful lessons to future projects",
+        "Never throw anything away.",
+        "This material may be needed by Programme Management",
+        "To permit any future audit of the project' s actions"
+      ],
+      "question": "In\"Closing a Project\"(CP)the project files are archiveD) What is the explanation given for this?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Establish terms of reference as a prerequisite to the start of the project",
+        "Use a defined structure for delegation, authority and communication",
+        "Divide the project into manageable stages for more accurate planning",
+        "Provide brief reports to management at regular meetings"
+      ],
+      "question": "Which of the following statements is FALSE? Project Managers using PRINCE2TM are encouraged to...",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Prevention",
+        "Denial",
+        "Reduction",
+        "Transference"
+      ],
+      "question": "Which of these is NOT a valid Risk Management action?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Plans",
+        "Controls",
+        "Work Package",
+        "Configuration Management"
+      ],
+      "question": "Which one of these is NOT a PRINCE2 Component?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Product Outline",
+        "Product Breakdown Structure",
+        "Checkpoint Report",
+        "Product Checklist"
+      ],
+      "question": "Which document lists the major products of a plan with their key delivery dates?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "The sum total of its products",
+        "The interim products",
+        "Its product description",
+        "The single end-product"
+      ],
+      "question": "The configuration of the final deliverable of the project is -",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "The change-over to operational use of the product",
+        "Assessment of the value of the product after a period of use",
+        "The specification of the product",
+        "Finalisation of the business case"
+      ],
+      "question": "Which part of a product lifespan is not part of a project life cycle in the eyes of PRINCE2?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Allocation of priority",
+        "Logging",
+        "Decision on what type of issue",
+        "Impact Analysis"
+      ],
+      "question": "What is the first job carried out on receipt of a new Project Issue?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "The Project Plan is an overview of the total project.",
+        "For each stage identified in the Project Plan, a Stage Plan is requireD)",
+        "An Exception Plan needs the approval of the next higher level of authority.",
+        "A Team Plan needs approval by the Project BoarD)"
+      ],
+      "question": "Which of these statements is FALSE?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Customer quality expectations should be discovered in the process \"Starting Up a Project\"",
+        "Acompany'sQMSbecomespartofPRINCE2",
+        "PRINCE2 may form part of a company's QMS",
+        "The Stage Plan describes in detail how part of the Project Plan will be carried out"
+      ],
+      "question": "Which of the following statements is FALSE?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "A justification for undertaking the project based on estimated costs and anticipated\r\n    benefits.",
+        "A measurable definition of what must be done for the final product to be acceptable\r\n    to the Customer.",
+        "To provide a full and firm foundation for the initiation of a project.",
+        "To triger` Starting up a Project'."
+      ],
+      "question": "Which one of these statements describes the true purpose of Acceptance Criteria?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Weekly",
+        "At Exception Assessments",
+        "At Checkpoint Meetings",
+        "On a regular basis"
+      ],
+      "question": "How often does PRINCE2 recommend that open Project Issues should be reviewed?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "The Project Mandate",
+        "The Team Plan",
+        "The Risk Log",
+        "The Project Brief"
+      ],
+      "question": "What other product is reviewed at the end of each stage apart from the Business Case\r\nand Project Plan?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "The author owns it.",
+        "To acknowledge its receipt and entry into the system.",
+        "To elicit further information.",
+        "To notify rejection of the Issue."
+      ],
+      "question": "Why is a copy of the Project Issue always returned to the author?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Post-Project Review",
+        "Post-Project Review Plan",
+        "End Project Report",
+        "Follow-on Action Recommendations"
+      ],
+      "question": "Which of the options below reviews the benefits achieved by the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "A PRINCE2TM project has a finite life span",
+        "A PRINCE2 project has a defined amount of resources",
+        "A PRINCE2 project may have only activities, i.e. no products",
+        "A PRINCE2 project has an organisation structure with defined responsibilities, to manage the project"
+      ],
+      "question": "Which of these statements is FALSE?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Supporter",
+        "Monitor",
+        "Owner",
+        "Librarian"
+      ],
+      "question": "The person best situated to keep an eye on a risk is called its...?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "End Project Report",
+        "Post-Project Review",
+        "Lessons Learned Report",
+        "Follow-On Action Recommendations"
+      ],
+      "question": "Which document reviews actual achievements against the Project Initiation Document?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Configuration items",
+        "Requests For Change",
+        "Project Issues",
+        "Exception Reports",
+        "Action items"
+      ],
+      "question": "InPRINCE2alpotentialchangesaredealtwithas...?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Are the products clearly and unambiguously defined?",
+        "On what other products is each product dependent?",
+        "Is any product dependant on a product outside the scope of this plan?",
+        "Which products can be developed in parallel?"
+      ],
+      "question": "Which one of these is NOT a key criterion for producing a Product Flow Diagram?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "When the product is passed to configuration management",
+        "In the Project Quality Plan",
+        "During the QR preparation step",
+        "In planning the relevant stage"
+      ],
+      "question": "For a Quality Review, when are suitable reviewers identified?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "The Project Mandate",
+        "The Project Plan",
+        "The Project Brief",
+        "The Business Case"
+      ],
+      "question": "The existence of what product is checked in \"Starting up a Project\" and its initial version finalized in\" Initiating a\r\nProject\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Technical",
+        "Management",
+        "Business",
+        "Quality"
+      ],
+      "question": "Which does PRINCE2 regard as the third project interest, given user and supplier as the other two?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "A changing or uncertain environment",
+        "A PRINCE2 requirement",
+        "Difficulty in predicting business conditions in the future",
+        "Difficulty in predicting resource availability well into the future"
+      ],
+      "question": "PRINCE2 lists a number of reasons why it is seldom desirable or possible to plan an entire project in detail at\r\nthe start. Which of these is NOT one of these reasons?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Starting Up a Project",
+        "Initiating a Project",
+        "Authorising Initiation",
+        "Authorising a Project"
+      ],
+      "question": "In which process is the Project Brief produced?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "As soon as it is available in draft form",
+        "When the associated product has passed its quality check",
+        "When the plan containing its creation is baselined",
+        "As soon as it is written"
+      ],
+      "question": "When should a Product Description be baselined?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "From the problem to the end of the project",
+        "From the problem to the end of a plan that will no longer finish within agreed\r\n\r\n    tolerances",
+        "The work needed to put the project back within its tolerances",
+        "The time needed to produce an Exception Report"
+      ],
+      "question": "An Exception Plan covers what period?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "To enable the approval of an Exception Report",
+        "To provide a review of a risky project at key moments when new information about\r\n\r\n    those risks appears",
+        "To ensure that key decisions are made prior to the detailed work needed to\r\n\r\n    implement them",
+        "To provide a` fire break' for the project by encouraging the Project Board to assess\r\n\r\n    the project viability at regular intervals"
+      ],
+      "question": "There are several benefits that the end stage assessment brings to a project. Which one of the following is\r\nNOT a benefit?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "The Project Approach",
+        "The Project Initiation Document",
+        "The project start-up notification",
+        "The Project Mandate"
+      ],
+      "question": "The initial Project Plan is based on the Project Brief, the Project Quality Plan and which other product?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Exception Report",
+        "Off-Specification",
+        "Follow-On Action Recommendations",
+        "Highlight Report"
+      ],
+      "question": "Which document is a record of some current or forecast failure to meet a requirement?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Project Manager's decision",
+        "Team Manager's decision",
+        "Team member' s decision to whom the work has been allocated",
+        "formal change control"
+      ],
+      "question": "If there is a request to change a baselined product, and the change can be done within the stage or Work\r\nPackage tolerances, how can the decision to implement the change be made?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Managing Stage Boundaries",
+        "Approving a Stage or Exception Plan",
+        "Managing Product Delivery",
+        "Planning"
+      ],
+      "question": "\"ControlingaStage\"driveswhichotherprocesonafrequent,iterativebasis?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Initiating a Project",
+        "Starting up a Project",
+        "Managing Stage Boundaries",
+        "Directing a Project"
+      ],
+      "question": "The Project Quality Plan is written in which process?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Work Packages",
+        "Product Descriptions",
+        "Quality Reviews",
+        "Stages"
+      ],
+      "question": "What are defined as\" partitions of the project with decision points\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Reporting Highlights",
+        "Assessing Progress",
+        "Capturing Project Issues",
+        "Examining Project Issues"
+      ],
+      "question": "In which lower level process of\" Controling a Stage\"is the Risk Log up dated?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Issue Log",
+        "Quality Log",
+        "Configuration Management",
+        "Change Control"
+      ],
+      "question": "If a question arises on why a particular product was changed, which element of PRINCE2 would be of most\r\nhelp in finding the information?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Assessing Progress",
+        "Reviewing Stage Status",
+        "Planning a Stage",
+        "Reporting Highlights"
+      ],
+      "question": "In which sub-process is a Stage Plan updated with actuals?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Executing a Work Package",
+        "Assessing Progress",
+        "Reporting Highlights",
+        "Reviewing Stage Status"
+      ],
+      "question": "In which sub-process are Checkpoint Reports created?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "All three are false",
+        "Only the third is true",
+        "Only the first is false",
+        "The second and third are true"
+      ],
+      "question": "Are the following statements true or false?\r\n1 Delegated Project Assurance roles report directly to corporate or programme\r\nmanagement\r\n2 In PRINCE2 the Project Manager role must be full time\r\n3 A project management structure is a temporary structure",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "From\" Starting up a Project\"",
+        "After the start-up of the project",
+        "At the end of the Initiation Stage",
+        "Before start-up of the project"
+      ],
+      "question": "The proces,\"Directing a Project\" begins when?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Managing Product Delivery",
+        "Controlling a Stage",
+        "Managing Stage Boundaries",
+        "Authorising a Stage"
+      ],
+      "question": "Apart from\" Initiating a Project\"in which proces is the Busines Caseupdated?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "A Project Plan",
+        "A Project Mandate",
+        "An appointed organisation",
+        "Project Initiation Document"
+      ],
+      "question": "The existence of what in formation is expected by the proces\" Starting Up a Project\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "One for each Stage",
+        "Two, Management and Specialist",
+        "Just the Quality File",
+        "Three; project, stages and quality"
+      ],
+      "question": "In the PRINCE2 document management structure, how many types of file are recommended?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Producer",
+        "Scribe",
+        "Review Chairperson",
+        "Configuration Librarian"
+      ],
+      "question": "In a Quality Review which role does PRINCE2 suggest must ensure that all reviewers are provided with the\r\nrelevant review products?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "The use of Team Managers",
+        "The use of Exception Plans",
+        "The use of Stages",
+        "The use of Product Checklists"
+      ],
+      "question": "Which of these is mandatory in a PRINCE2 project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Notifying the Project Manager of any external risk exposure to the project",
+        "Making decisions on recommended reactions to risk",
+        "Identifying, recording and regularly reviewing risks",
+        "Striking a balance between levels of risk and potential benefits"
+      ],
+      "question": "The Project Board has three responsibilities towards the management of risk. Which of the following options is\r\nthe FALSE one?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Project Support",
+        "Quality Planning",
+        "Quality Control",
+        "Quality assurance"
+      ],
+      "question": "What function creates, maintains and monitors the use of a quality system?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "To identify products",
+        "To create products",
+        "To track products",
+        "To protect products"
+      ],
+      "question": "Which is NOT a purpose of configuration management?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Understand the reporting requirements",
+        "Agree tolerance margins for the Work Package",
+        "Monitor and control the risks associated with the Work Package",
+        "Produce a Team Plan which shows that the Work Package can be completed within\r\n\r\n    the constraints"
+      ],
+      "question": "Which step is NOT part of\" Acepting a Work Package\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Starting up a Project",
+        "Closing a Project",
+        "Planning",
+        "Managing Stage Boundaries"
+      ],
+      "question": "Which process provides the information needed for the Project Board to assess the\r\ncontinuing viability of the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "The fourth is wrong",
+        "All four are correct",
+        "Only the first two are correct",
+        "The third is wrong."
+      ],
+      "question": "Which of the following are described in the Communication Plan?\r\n1) Who needs information\r\n2) What information they need\r\n3) Why they need it\r\n4) The format in which it should be presenteD)",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Managing Stage Boundaries",
+        "Closing a Project",
+        "Directing a Project",
+        "Managing Product Delivery"
+      ],
+      "question": "In which process are decisions made on Exception Reports?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Starting up a Project",
+        "Managing Stage Boundaries",
+        "Closing a Project",
+        "Directing a Project"
+      ],
+      "question": "Which process checks for changes to the project management team?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "The Project Initiation Document",
+        "The Project Plan",
+        "The Project Quality Plan",
+        "The Project Approach"
+      ],
+      "question": "Fromtheproductslisted,which one i s produced during` Starting Up a Project'?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Initiating a Project",
+        "Starting up a Project",
+        "Managing Stage Boundaries",
+        "Directing a Project"
+      ],
+      "question": "Quality responsibilities, both within and external to the project, are defined in which\r\nprocess?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Closing a Project",
+        "Managing Product Delivery",
+        "Managing Stage Boundaries",
+        "Controlling a Stage"
+      ],
+      "question": "Acceptance for the completed products is obtained as part of which process?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Taking Corrective Action",
+        "Reviewing Stage Status",
+        "Escalating Project Issues",
+        "Reporting Highlights"
+      ],
+      "question": "An Exception Report is produced in which sub-process?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "All four",
+        "the first three",
+        "the first two",
+        "the third is wrong"
+      ],
+      "question": "Which of the following are functions of the start-up process, SU?\r\n1) Setting up the project management team\r\n2) Developing the Project Mandate into the Project Brief\r\n3) Confirming the Project Approach\r\n4) Creating the Issue Log",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Team Manager",
+        "Project Assurance",
+        "Project Board Member",
+        "Project Support"
+      ],
+      "question": "Which role from the following list does PRINCE2TM say cannot be delegated?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Progress already made",
+        "Benefits already achieved",
+        "Any agreed changes in circumstances",
+        "Any revised forecast of cost"
+      ],
+      "question": "New versions of the Project Plan are produced at the end of each stage to reflect updated information. Identify\r\nwhich option is FALSE.",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "The Project Plan",
+        "The Project Approach",
+        "The Project Brief",
+        "The Project Quality Plan"
+      ],
+      "question": "The decision on whether a project's solution will be contracted to third parties is made in which product?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Managing Product Delivery",
+        "Controlling a Stage",
+        "Managing Stage Boundaries",
+        "Authorising a Stage"
+      ],
+      "question": "Apart from \"Initiating a Project\" in which process is the Business Case updated?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Identifying Risks associated with a plan",
+        "Agreeing the Quality Criteria for a product with the Customer",
+        "Establishing tolerance levels",
+        "Follow-on Action Recommendations"
+      ],
+      "question": "What does PRINCE2 suggest may assist in the ultimate acceptance of the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Project Manager",
+        "Senior Supplier",
+        "Executive",
+        "Senior User"
+      ],
+      "question": "Which individual role is ultimately accountable for the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "The Executive",
+        "The Project Manager",
+        "The Senior User",
+        "The entire Project Board"
+      ],
+      "question": "Who is responsible for the project producing a result that is capable of achieving the benefits defined in the\r\nBusiness Case?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Project Plan",
+        "Stage Quality Plan",
+        "Project Quality Plan",
+        "Project Initiation Document"
+      ],
+      "question": "In which document does PRINCE2TM look for the identification of the Chairman of a Quality Review?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "How quality will be achieved",
+        "When each product will be tested",
+        "By whom each product will be tested",
+        "Options A, B and C"
+      ],
+      "question": "Which of the following quality measures is covered in the process \"Initiating a Project\" (IP)?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "The resources",
+        "The plans",
+        "The products",
+        "The business benefits"
+      ],
+      "question": "In terms of configuration management what are described as the assets of a project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Project Brief",
+        "Project Mandate",
+        "Project Initiation Document",
+        "Project Plan"
+      ],
+      "question": "Which of the following products is NOT created during the PRINCE2TM process model?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "A clear end to a project provides a useful opportunity to take stock of achievements\r\n    and experience",
+        "A clear end to a project provides an opportunity to ensure that all unachieved goals\r\n    and objectives are identified",
+        "A clear end to a project provides the opportunity to evaluate achievement of all the\r\n    expected benefits",
+        "A clear end to a project is always more successful than the natural tendency to drift\r\n    into use and subsequent modification of the product"
+      ],
+      "question": "Which statement is NOT a fundamental principle of \"Closing a Project\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Starting up a Project",
+        "Managing Stage Boundaries",
+        "Closing a Project",
+        "Directing a Project"
+      ],
+      "question": "In which process are checks made for changes to the project management team?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Project and Stage Tolerances",
+        "A Change Budget",
+        "Contingency Plans",
+        "Adding a contingency margin to estimates"
+      ],
+      "question": "What provision in Planning can be made for implementing Requests for Change?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Project Mandate",
+        "Initial Business Case",
+        "Project Quality Plan",
+        "Communication Plan"
+      ],
+      "question": "Which option is NOT part of the Project Initiation Document?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Project Manager",
+        "Corporate Management",
+        "Project Executive",
+        "One or more members of the Project Board"
+      ],
+      "question": "On behalf of whom do any appointed assurance jobs assure the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "For the Project Manager to present an Exception Plan to the Project Board",
+        "The Project Manager delivers a progress report to the Project Board as a confidence\r\n\r\n    boost",
+        "The Project Board meets to consider an Exception Report",
+        "The Project Manager reviews and revises the Risk Log with those with assurance\r\n\r\n    roles"
+      ],
+      "question": "Which statement most accurately reflects the reason for an Exception Assessment in PRINCE2TM?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Stage Quality Plan",
+        "Product Breakdown Structure",
+        "Product Description",
+        "Quality Log"
+      ],
+      "question": "If a product is to be changed, what else must also pass through change control?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Highlight Reports",
+        "The Quality Log",
+        "The Business Case",
+        "Project Initiation Document"
+      ],
+      "question": "As part of \"Assessing Progress\" the Project Manager looks at Checkpoint Reports, Work Packages status and\r\nwhat other product?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "The Project Brief",
+        "The Project Mandate",
+        "The Project Initiation Document",
+        "An Implementation Plan"
+      ],
+      "question": "What document is input to the Project Board with a request to authorise the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Creating a Product Checklist",
+        "Creating a Product Description for the final product",
+        "Creating a Product Flow Diagram",
+        "Creating a Product Breakdown Structure"
+      ],
+      "question": "What is the first task in product-based planning?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Annotation of minor errors on a Quality Review product",
+        "Request to change the specification of requirements",
+        "Suggestion to improve a project product",
+        "Record of some current or forecast failure to meet a requirement"
+      ],
+      "question": "Which one of these is NOT a Project Issue?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Project Assurance",
+        "Reviewer",
+        "Project Support",
+        "The Review Chairman"
+      ],
+      "question": "Which role is suggested might act as Scribe to a Quality Review?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "The Project Mandate",
+        "The Project Initiation Document",
+        "The Project Brief",
+        "The Business Case"
+      ],
+      "question": "What does PRINCE2TM say must drive the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "They will be impacted by the outcome",
+        "May need to use both in-house and external teams to construct the final outcome",
+        "Representation from the business viewpoint",
+        "Will provide the funding"
+      ],
+      "question": "Which phrase applies to the user representative in a PRINCE2 project management team?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Managing Product Delivery",
+        "Controlling a Stage",
+        "Directing a Project",
+        "Managing Stage Boundaries"
+      ],
+      "question": "Which process covers overall direction and decision-making of the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "A controlled break between Project Manager and product creation/provision by third\r\n    party suppliers",
+        "Before a Work Package is allocated to the team, there should be agreement with the\r\n    Project Manager on what is to be delivered",
+        "Whatever the type of project, the actual task of creating the required products needs\r\n    to be managed",
+        "Work only commences and continues with the consent of the Project Manager"
+      ],
+      "question": "What is the fundamental principle behind the process \"Managing Product Delivery\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Stage Plans only",
+        "Project and Stage Plans only",
+        "All levels of plan",
+        "All levels of plan except the Exception Plan"
+      ],
+      "question": "The Product-based Planning technique is recommended for which plans?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Executive",
+        "Project Manager",
+        "Senior User",
+        "Team Manager"
+      ],
+      "question": "The use of which of these roles is OPTIONAL?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "The two standard elements to tolerance are time and cost",
+        "Tolerance is the permissible deviation from plan without bringing the deviation to\r\n\r\n    the attention of the next higher authority.",
+        "Separate tolerance figures should be given for time and cost.",
+        "The Project Board has absolute discretion to set new tolerances at Project and Stage\r\n\r\n    Plan levels whenever it wishes to whatever levels it wishes."
+      ],
+      "question": "Which of the following statements is FALSE?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Assessing Progress",
+        "Reviewing Stage Status",
+        "Planning a Stage",
+        "Reporting Highlights"
+      ],
+      "question": "In which lower level process of Controlling a Stage is a Stage Plan updated with actuals?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Managing Stage Boundaries",
+        "Managing Product Delivery",
+        "Closing a Project",
+        "Controlling a Stage"
+      ],
+      "question": "Which process produces operational and maintenance acceptance of products?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "The Team Manager",
+        "Those with assurance responsibilities",
+        "The Author",
+        "The Project Board"
+      ],
+      "question": "Who does PRINCE2TM say may re-evaluate the priority of an issue after impact analysis?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Highlight Report",
+        "Checkpoint Report",
+        "Issue Report",
+        "Exception Report"
+      ],
+      "question": "Which report does the Project Manager receive on a regular basis?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Requests For Change",
+        "Off-Specifications",
+        "Configuration Items",
+        "Project Issues"
+      ],
+      "question": "In PRINCE2 all potential changes are dealt with as ...?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Identifying activities and dependencies",
+        "Writing Product Descriptions",
+        "Scheduling",
+        "Defining and analysing products"
+      ],
+      "question": "Given that producing a Product Breakdown Structure and a Product Flow Diagram are\r\ntwo of the steps of product-based planning, which is another?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "The Project Manager",
+        "the Scribe",
+        "the Team Manager",
+        "the Producer"
+      ],
+      "question": "In preparing for a Quality Review, who should distribute a copy of the product and Product Description to the\r\nreviewers?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Highlight Reports",
+        "Plans",
+        "The control points",
+        "End Stage Assessments"
+      ],
+      "question": "What are described as \"the backbone of the management information system required for any project\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Quality Review",
+        "Configuration Management",
+        "Product-based Planning",
+        "Change Control"
+      ],
+      "question": "Which PRINCE2 technique helps to ensure that all personnel affected by a product have the same\r\nunderstanding of the product's purpose?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "The Stage Plan",
+        "The Issue Log",
+        "Configuration Management",
+        "Work Package Authorisations"
+      ],
+      "question": "If there were a need to know what the precise content of an old version of a product was, what part of\r\nPRINCE2TM would most help us?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "The Project Approach",
+        "The Project Initiation Document",
+        "The project start-up notification",
+        "The Project Mandate"
+      ],
+      "question": "The initial Project Plan is based on the Project Brief, the Project Quality Plan and which other product?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "A contract to a third party",
+        "An error found in a Quality Review which is not corrected",
+        "An Off-Specification accepted by the Project Board without corrective action",
+        "An allowance above and beyond tolerance levels"
+      ],
+      "question": "What is a concession?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Event-driven",
+        "Time-driven",
+        "Ad hoc",
+        "Technique-based"
+      ],
+      "question": "Are the majority of PRINCE2TM controls described as...?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Checkpoint Report",
+        "Exception Report",
+        "Highlight Report",
+        "Lessons Learned Report"
+      ],
+      "question": "Which product does PRINCE2 suggest should include the budget and schedule impact of changes?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Highlight Report",
+        "Checkpoint Report",
+        "Exception Report",
+        "End Stage Report"
+      ],
+      "question": "What time-driven control ascertains the status of team members' work?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "The Project Plan",
+        "a Stage Quality Plan",
+        "the Project Quality Plan",
+        "a Team Plan"
+      ],
+      "question": "What plan identifies quality responsibilities for the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "During Starting Up A Project",
+        "During Initiating a Project",
+        "In Giving Ad Hoc Direction",
+        "When Authorising a Stage"
+      ],
+      "question": "In which process does the Project Manager ask the Project Board where the authority\r\nfor making change lies?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Lessons Learned Log",
+        "Business Case",
+        "Risk Log",
+        "Stage Plan"
+      ],
+      "question": "Apart from the Issue Log, what else is updated by the lower level process \"Examining Project Issues\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Initiating a Project",
+        "Closing a Project",
+        "Managing Stage Boundaries",
+        "Directing a Project"
+      ],
+      "question": "Closure of the project can only be authorised in which of these processes?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Follow-on Action Recommendations",
+        "End Stage Report",
+        "Business Case review",
+        "Lessons Learned Report"
+      ],
+      "question": "Which report assesses what management processes worked well and what went badly?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "ISO 9001",
+        "Stage Quality Plan",
+        "The supplier quality policy",
+        "Customer Quality Expectations"
+      ],
+      "question": "What does PRINCE2TM suggest is a direct input to the Project Quality Plan?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Product Status Account",
+        "Configuration audit",
+        "Quality Review",
+        "Quality Assurance"
+      ],
+      "question": "What name is given to the review that checks that the configuration management process is being done to a\r\nstandard?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "The Customer",
+        "The User",
+        "Configuration Librarian",
+        "The Project Board"
+      ],
+      "question": "Who might receive completed products before the Team Manager reports that the Work Package has been\r\ncompleted?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Quality File",
+        "Project File",
+        "Each Stage File",
+        "Specialist File"
+      ],
+      "question": "In the suggested filing system, where is the Risk Log kept?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "When the product is passed to Configuration Management",
+        "In the Project Quality Plan",
+        "During the QR Preparation step",
+        "In planning the relevant stage"
+      ],
+      "question": "For a Quality Review, when are suitable reviewers selected?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Perform a risk analysis and management review of the project",
+        "Revise the Project Mandate",
+        "Review the tolerances set for the next Stage",
+        "Review the next Stage Plan against the Project Plan"
+      ],
+      "question": "Which of these is NOT a specific objective of an end stage assessment?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "The availability of the project board for progress meetings",
+        "How far ahead in the project it is sensible to plan",
+        "Where the key decision points need to be on the project",
+        "Too many small stages versus too few big ones"
+      ],
+      "question": "Defining the stages of a project is fundamentally a process of balancing a number ofparameters. Which one of\r\nthe following is NOT one of the parameters",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Capturing Project Issues",
+        "Assessing Progress",
+        "Examining Project Issues",
+        "Reporting Highlights"
+      ],
+      "question": "In which sub-process of \"Controlling a Stage\" is the Risk Log updated?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Understand the reporting requirements",
+        "Agree tolerance margins for the Work Package",
+        "Monitor and control the risks associated with the Work Package",
+        "Produce a Team Plan which shows that the Work Package can be completed within\r\n\r\n    the constraints"
+      ],
+      "question": "which step is NOT part of \"Accepting a Work Package\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "The single end product",
+        "The interim products",
+        "Its product description",
+        "The sum total of its products"
+      ],
+      "question": "The configuration of the final deliverable of the project is -",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Three-plans, risk and quality",
+        "Three-project, stage and quality",
+        "Just the Quality File",
+        "One per Project Issue"
+      ],
+      "question": "In the PRINCE2TM document management structure, how many major types of file are\r\nrecommended?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "In 'Starting up a Project'",
+        "During Initiation",
+        "As part of 'Managing Stage Boundaries'",
+        "As part of the Project Mandate"
+      ],
+      "question": "When is a Project Quality Plan created?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Controls",
+        "Configuration Management",
+        "Quality in a Project Environment",
+        "Change Control"
+      ],
+      "question": "The following appears on the cover sheet of a PID: 'Version 1. 3 Draft'. Which Component of PRINCE2 would\r\nbe responsible for this entry?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "As soon as it is logged",
+        "On a weekly basis",
+        "At the next execution of the sub-process, Reviewing Stage Status",
+        "At end stage assessment"
+      ],
+      "question": "When should an initial examination of a Project Issue be performed?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Planning",
+        "Starting up a Project",
+        "Initiating a Project",
+        "Controlling a Stage"
+      ],
+      "question": "In addition to the normal steps of a Quality Review an extra one, \"Quality Review Planning\" is recommendeD)\r\nIn which process does PRINCE2 suggest that this step should be done?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "The means of ensuring that products meet the quality criteria",
+        "The establishment of the objectives and requirements for quality",
+        "The creation and maintenance of a quality system",
+        "The process of ensuring that the quality expected by the customer is achieved"
+      ],
+      "question": "Quality management is ...",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "The Issue Log",
+        "The appropriate Product Descriptions",
+        "Project Board Authorisation to Proceed",
+        "Timesheets"
+      ],
+      "question": "What should be reviewed as part of preparing a Work Package?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Configuration Librarian",
+        "Configuration Auditor",
+        "Product Assurance",
+        "Version Controller"
+      ],
+      "question": "The person operating the configuration management method is called",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Establish terms of reference as a prerequisite to the start of the project",
+        "Use a defined structure for delegation, authority and communication",
+        "Ensure resource commitment from management is part of any approval to proceed",
+        "Provide brief reports to management at regular meetings"
+      ],
+      "question": "Which of the following statements is FALSE? Project Managers using PRINCE2 are\r\nencouraged to ...",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Off-Specifications",
+        "Specialist Products",
+        "Acceptance Criteria",
+        "Stage Quality Plans"
+      ],
+      "question": "The Quality File has seven divisions. Five of these are for customer's quality expectations, Project Quality Plan,\r\nConfiguration Management Plan, Configuration Item Records and Quality inspection records. Which of the\r\nfollowing is another one?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Managing Stage Boundaries",
+        "Starting up a Project",
+        "Directing a Project",
+        "Managing Product Delivery"
+      ],
+      "question": "Which process covers the work required of people who may not be using PRINCE2?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Project Issue",
+        "Work Package",
+        "Checkpoint Report",
+        "Risk Log"
+      ],
+      "question": "It would be chaotic to have the people who are working on the project starting activities whenever they think fit.\r\nWhat product does PRINCE2 use to control this?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Quality Review",
+        "Checkpoint Report",
+        "Highlight Report",
+        "End Stage Report"
+      ],
+      "question": "What element of PRINCE2 provides \"an objective measurement for management progress control\"?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "A fixed-price contract",
+        "A Customer/Supplier environment",
+        "A specialist environment",
+        "A third-party environment"
+      ],
+      "question": "What environment does PRINCE2 assume?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Notifying the Project Manager of any external risk exposure to the project",
+        "Ensuring that risks are identified, recorded and regularly reviewed",
+        "Making decisions on recommended reactions to risk",
+        "Striking a balance between level of risk and potential benefits"
+      ],
+      "question": "The Project Board has three responsibilities towards the Management of Risk. Which of the following options is\r\nthe FALSE one?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Products",
+        "Management",
+        "Outcomes",
+        "Benefits"
+      ],
+      "question": "There are 6 variables involved in all projects. The first 5 are costs, timescales, quality, scope and risk. What is\r\nthe 6th?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Project Manager",
+        "Project Assurance",
+        "Senior User",
+        "Corporate/Programme Management"
+      ],
+      "question": "In the \"Plan the Next Stage\" activity, which project role is responsible for reviewing the next Stage Plan?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Create a Product Breakdown Structure",
+        "Write a Project Product Description",
+        "Create a Product Flow Diagram",
+        "Write Product Descriptions"
+      ],
+      "question": "What is the first step in Product-based Planning?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "In Controlling a Stage, the Stage Plan is updated with actuals and progress is checked against the plan",
+        "Controlling a Stage drives Managing Product Delivery",
+        "The Project Manager uses the process Controlling a Stage to manage any deviations from Stage or Project\r\n\r\n    Plans",
+        "All of Controlling a Stage is used in a time-driven manner"
+      ],
+      "question": "Controlling a Stage describes the day-to-day work of the Project Manager. Which of the following statements is\r\nfalse?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "A project should be terminated once it is predicted to exceed the project tolerance",
+        "A project should be terminated if the Project Manager or a member of the Project Board resigns",
+        "Once a project commences, it should continue to completion",
+        "A project should be terminated when the Project Board decides that the project is no longer viable"
+      ],
+      "question": "At which point should a project be terminated?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "A sketch on the back of an envelope?",
+        "The very first PRINCE2 process?",
+        "A PRINCE2 project think-tank of the Project Manager, other team members and the Project Board?",
+        "Programme or corporate management?"
+      ],
+      "question": "The Project Mandate is usually derived from:",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Initiating a Project",
+        "Managing Product Delivery",
+        "Controlling a Stage",
+        "Starting Up a project"
+      ],
+      "question": "Which process is the Quality Register created?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "After Starting up a Project",
+        "Once corporate / programme management has given a Project Mandate",
+        "At the beginning of Starting up a Project",
+        "Once the Project Mandate has been created"
+      ],
+      "question": "At which point does the PRINCE2 Project Board carry out its first major activity?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Project Initiation Documentation",
+        "Work Package",
+        "Exception Plan",
+        "Project Plan"
+      ],
+      "question": "Which of the following does not aid the Project Manager in exerting control?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Issue Register",
+        "Checkpoint Report",
+        "Project Product Descriptions",
+        "Exception Plan"
+      ],
+      "question": "Which of the following is an in put to the \"Plan the Next Stage\" activity in the \"Managing a Stage Boundary\"\r\nprocess?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Project Plan",
+        "Project Initiation Document",
+        "Project Quality Plan",
+        "Project Brief"
+      ],
+      "question": "Which of the following are produced during the Starting Up a Project stage?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Once agreed, the Stage Plan never gets updated",
+        "Receipt of a Checkpoint Report from a team manager",
+        "Receipt of a Project Issue",
+        "An entry made into the daily log"
+      ],
+      "question": "Which of the following is a trigger for the Project Manager to update the Stage Plan with actuals?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Managing Product Delivery",
+        "Starting Up a Project",
+        "Initiating a Project",
+        "Authorising Initiation"
+      ],
+      "question": "A Project Mandate is turned into a Project Brief by which of the following processes?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Daily Log",
+        "Issue Register",
+        "Lessons Log",
+        "Issue Report"
+      ],
+      "question": "Which product documents issues and should be monitored on a regular basis?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Assess",
+        "Risk budget",
+        "Identify",
+        "Implement"
+      ],
+      "question": "Which of the following is NOT a step in PRINCE2 Risk Management?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Initiating a Project",
+        "Authorising a Project",
+        "Starting Up a Project",
+        "Directing a Project"
+      ],
+      "question": "Which Process is used to design the Project Management Team?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "It encourages the Project Board to take ownership of the project",
+        "It provides the benchmark for decision-making processes throughout the projects life",
+        "It confirms the existence of an acceptable Business Case justifying the project",
+        "It ensures that all project management authorities are appointed"
+      ],
+      "question": "Which of the following is not an objective of the process Initiating a Project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Ensure that quality is achieved as planned",
+        "Manage any deviations from Stage or Project Plans",
+        "Identifying the key products that the project will deliver",
+        "Manage on-time delivery of products within agreed tolerances"
+      ],
+      "question": "Which of the following is NOT an objective of the process Controlling a Stage?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Project Manager",
+        "Senior User",
+        "Executive",
+        "Senior Supplier"
+      ],
+      "question": "Whose responsibility is it to supply the Customer's quality expectations?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "1 3 and 4 only",
+        "All of the above",
+        "land 3 only",
+        "1 2 and 3 only"
+      ],
+      "question": "The Project Board keeps a control of the project through:\r\n1 Highlight Reports\r\n2 Checkpoint Reports\r\n3 Exception assessment\r\n4 Quality Log",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Business Case",
+        "Project Plan",
+        "Project tolerance",
+        "Risk Log"
+      ],
+      "question": "Which of the following is a stable element within the Project Initiation Document?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "2",
+        "2&3",
+        "None of the above",
+        "1&2"
+      ],
+      "question": "Which of the following are NOT covered in the management product `Project Approach'?\r\n1 Whether the solution is to be bespoke\r\n2 What quality levels the product must meet\r\n3 Whether an off the shelf product will be used",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Stage Plan",
+        "Quality Management Strategy",
+        "Configuration Item Record",
+        "Benefits Review Plan"
+      ],
+      "question": "Which of the following is an in put to the \"Prepare the Communication Management\r\nStrategy\" ?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "An issue the Project Manager needs to resolve or escalate",
+        "Something forecast or currently not meeting society",
+        "A proposal for a change to a basket",
+        "A statement of concern"
+      ],
+      "question": "Which of the following is the definition for an off-specification?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Quay Management Strategy",
+        "Configuration Management Strategy",
+        "Risk Management Strategy",
+        "Communication Management Strategy"
+      ],
+      "question": "In which strategy would the change control process be recorded?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "A Change Authorty",
+        "A Change Board",
+        "A Change Commtee",
+        "A Change Budget"
+      ],
+      "question": "It me Project Board are too busy to authorize all change requests themsekes they can appoint....?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [],
+      "options": [
+        "A set of records that descrbe rformaton about the project B) A bg used to record\r\n    problems or concerns about products C) An aud( or review to compare actual status of\r\n    products\r\n    D) A report covemg the status about the state of the projects products withn"
+      ],
+      "question": "What is the purpose of a Product Status Account?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "multiple"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "1 3 4",
+        "2 3 4",
+        "1 2 4",
+        "1 2 3"
+      ],
+      "question": "When examining a project issue, which three aspects should be considered?\r\n1 Performance targets\r\n2 Business Case\r\n3 Resources\r\n4 Risk",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Project Manager",
+        "Project Support",
+        "Project Assurance",
+        "Team Manager"
+      ],
+      "question": "Who would be responsible for maintaining the Configuration Item Records?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "From the beginning of Starting up a Project",
+        "From the begnniig of Inliatrig a Project",
+        "From the completion of Startng up a Project",
+        "From the completion of Tniatiig a Project"
+      ],
+      "question": "When does Directing a Project begin?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Project Bnef",
+        "Busness Case",
+        "Project Intiation Documentation",
+        "Project Product Descrption"
+      ],
+      "question": "Which management product do the Project Board use to decide whether to authonse initiation?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Stage Authonsation",
+        "Correctie Action",
+        "Exception plan approved",
+        "Reporting hjhkjhts"
+      ],
+      "question": "Which of the following is NOT a tngger fo the project marager to authorise a work package?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Review the stage status",
+        "Review work package status",
+        "Repot Hhbghts",
+        "Take corrective action"
+      ],
+      "question": "Which activity is responsible for updating the stage plan with actual during Controlling a Stage?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Team Plan",
+        "Checkpoint Report",
+        "Quay Register",
+        "Configuration Item Record"
+      ],
+      "question": "During Execubng a Work package, specialist products are createi and quality reviews\r\nare carried out which management product captures the details of these reviews?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Highhght report",
+        "Checkpont Report",
+        "Issue Report",
+        "End Stage Report"
+      ],
+      "question": "During a work package the Team manager needs to keep the project manager informed,\r\nwhich management product is used for this?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Exception P'an",
+        "Project Management team",
+        "Busriess Case",
+        "Project Inaiabon Documentation"
+      ],
+      "question": "When updating the project plan as part of Managing a stage boundary, what else might be updated?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "1 2 3",
+        "1 3 4",
+        "1 2 4",
+        "23 4"
+      ],
+      "question": "Whicti of the following management products is NOT updated as part of Managing a stage boundary?\r\n1 Business Case\r\n2 Benefits Review Plan\r\n3 Configuration Item Records\r\n4 Project Brief",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [],
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "question": "Which of the following activities could tngger the production of an exception plan?\r\nReview Stage status\r\nB) Givng ad hoc drection\r\nC) Escalatng a project issue\r\nD) Report stage end",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "multiple"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "The justifcaton for the project must reman the same throughout the project.",
+        "The justAficabon for the project shouki remali vahD)",
+        "The justification for the project may change.",
+        "If the project is no longer justified t should be stoppeD)"
+      ],
+      "question": "Which of the following statements is FALSE regarding the Continued Business\r\nJustifcation",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Update the project plan wth actua",
+        "Update the Project Management Team",
+        "Request a product status account",
+        "Confirm project has dehvered what defned ii Project PrOduCt Descrtion"
+      ],
+      "question": "Which of the following activties is NOT an action of preparing for planned closure?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Continued Business Justificaton",
+        "Defried roles and responsbies",
+        "Learn from experence",
+        "Manage by stages"
+      ],
+      "question": "Whicts princpIe Is supported by the activity Evaluate the Project9",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Have business, user and suppler stakeholders representation",
+        "Never be reviewed as members should stay with the team for the duration",
+        "Ensure appropriate governance by defiling responsive for directing, managing and\r\n\r\n    delving the project and clearly defining accountable at all levels",
+        "Have an effective strategy to manage communication flows to and from stakeholders"
+      ],
+      "question": "Which of the following is False? A Successful project management team should,",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Ensures the project provides value for money",
+        "Ensures the requirements for the project are defined",
+        "Ensures the products produced meet the desired quality",
+        "Represents the users of the product"
+      ],
+      "question": "Which of the following statements is true of the business interest on the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Authority, Credulity, Ointment, Availably",
+        "Authority, Credibity, Delegation, Avadabity",
+        "Authority, Availably, Connections, Delegation",
+        "Authority, Crudity, Connections, Delegation"
+      ],
+      "question": "Which of the following represents the four key characteristics a good Project board should di splay?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Risk Management Strategy",
+        "Quaky Management Strategy",
+        "Communication Strategy",
+        "Configuration Management Strategy"
+      ],
+      "question": "In which Management product would the Project Board specify where the authority for change requests lies?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Project Assurance",
+        "Project Manager",
+        "Corporate or Programme Management",
+        "Project Support"
+      ],
+      "question": "Who is responsible for ensuring That Communication Management Strategy is appropriate and that planned\r\ncommunication activities actually take place?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Executive and Senior User",
+        "Project Manager and Project Support",
+        "Project Assurance and Team Manager",
+        "Senior Supplier and Supplier Assurance"
+      ],
+      "question": "Which of the following roles cannot be combined?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Initiation, Project and Stage Plans",
+        "Project, Stage and Exception Plans",
+        "I Initiation, Project and Benefit Review Plans",
+        "Project, Stage and Team Plans"
+      ],
+      "question": "PRINCE2 proposes 3 levels of Plan, which are they?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "2 4 3 1",
+        "4 2 1 3",
+        "4 3 2 1",
+        "2 4 1 3"
+      ],
+      "question": "Having completed designing the plan, in which order should the next steps take place to\r\nproduce a plan?\r\n1 Prepare Estimates\r\n2 Define and analyze Products\r\n3 Prepare the schedule\r\n4 Identify activities and dependencies",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "1 2 3",
+        "2 3 4",
+        "1 3 4",
+        "1 2 4"
+      ],
+      "question": "Product based planning focuses on which of the following\r\n1 Creating product descriptions\r\n2 Identifying activities\r\n3 Creating a Product hierarchy\r\n4 Creating a Product sequence",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "The project board",
+        "The project manager",
+        "The team manager",
+        "Corporate or programme management"
+      ],
+      "question": "Who sets the tolerances for a work package?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Pre-requests",
+        "Assumptions",
+        "Quality responsibilities",
+        "Product descriptions"
+      ],
+      "question": "Which of the following is not part of the composition of a Plan?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Senior User",
+        "Senior Suppler",
+        "Executive",
+        "Project Board"
+      ],
+      "question": "Who is responsible for committing user resources to the project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Any of the projects specialist products",
+        "A result of the change derived from using the project's products",
+        "A measurable improvement resulting from a change",
+        "Something perceived as advantages by a stakeho�ier"
+      ],
+      "question": "Which ol the following statements describes an outcome?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Reasons",
+        "Major Risks",
+        "Business options",
+        "Business approach"
+      ],
+      "question": "Which of the following should NOT be included in the business case?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Do nothing",
+        "Do the maximum",
+        "Do the minimum",
+        "Do something"
+      ],
+      "question": "When considering the business options in the business case, which of these is NOT an option?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "They cannot be assented",
+        "They don't need to follow corporate objectives",
+        "They should be measured",
+        "Tolerances cannot be set against expected benefits"
+      ],
+      "question": "Which of the following statements s TRUE with regard to expected benefits?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Business Assurance",
+        "Senior User",
+        "Corporate or Programme Management",
+        "Project Support"
+      ],
+      "question": "Who is responsible for ensuring that the value-for- money solution is constantly reassessed?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Ensure the desired",
+        "Responsible for the",
+        "Assess and update",
+        "Responsible for the"
+      ],
+      "question": "Which of the following activities is the Executive responsible for?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Manage by stages",
+        "Focus on products",
+        "Manage by exception",
+        "Learn from experience"
+      ],
+      "question": "Which of the following principles describes this statement'? xxx defines tolerances for each project objective to\r\nestablish limits of delegated authority",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "When Starting a Project",
+        "When initiating a Project",
+        "As the project progresses",
+        "As the project doses"
+      ],
+      "question": "Which of the following statements is NOT correct The Learn from Experience principle suggests that lessons\r\nshould be actively sought..",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Tailor to suit the project environment",
+        "Focus on products",
+        "Manage by stages",
+        "Continued business justification"
+      ],
+      "question": "Which of the following principles uses Product Descriptions to provide clarity by defining each products\r\npurpose, composition, derivation, format, quality criteria and quality method?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "The justification for the project must remain the same throughout the project",
+        "The justification for the project should remain valid",
+        "The justications for the project may change",
+        "If the project is no longer justified t. should be stopped"
+      ],
+      "question": "Which of the following statements is FALSE regarding the Continued Business Justification?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Scope, People & Resources, Benefit",
+        "Scope, Risk, Product",
+        "Risk, Benefit, Product",
+        "Scope, Risk. Benefit"
+      ],
+      "question": "The Manage by Exception principle sets tolerances for six areas of the project, Time, Cost and Qualities are\r\nthree of them, what are the other three?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Ensure project controls are based on project's scab, complexity, repentance, capably\r\n    and risk",
+        "To use a set of pre-defined templates for the size of project",
+        "To tailor the use of the principles to suit the project",
+        "To pick which PRTNCE2 processes to apply and which to leave out"
+      ],
+      "question": "Which statement best explains the purpose of Tailor to suit the project environment?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Project Board",
+        "Project Manager",
+        "Corporate or Programmer Management",
+        "Executive"
+      ],
+      "question": "If Project tolerances were threateneD) who needs to be notified?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Cantroling a Stage",
+        "initiating a Project",
+        "Managing a Stage Boundary",
+        "Directing a Project"
+      ],
+      "question": "During which process would the stage tolerances be set?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "The amount of resources available in the short term",
+        "How far ahead you can sens plan in detail",
+        "The technical stages within the project",
+        "The amount of r6k associated with the project"
+      ],
+      "question": "Which of the following is not a factor to consider when determining the length of a stage?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "technical stages can on' occur sequenta1y",
+        "Technical stages define where management dec&ons are appointee",
+        "Technical stages often overlap",
+        "Technical stages define the commitment of resources and authority to spend"
+      ],
+      "question": "Which statement is TRUE with regard to technical stages?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Highlight and End Stage Reports",
+        "Highlight and Checkpoint Reports",
+        "Checkpoint and End Project Reports",
+        "Highlight and Lessons Reports"
+      ],
+      "question": "There are two time driven controls in PRINCE2 which are they'?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Project Support",
+        "Executive",
+        "Project Assurance",
+        "Project Manager"
+      ],
+      "question": "Who is responsible for confirming stage and project progress against agreed tolerances?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Manage by stages",
+        "Focus on products",
+        "Manage by exceptions",
+        "Learn from experience"
+      ],
+      "question": "Which principle is central to the quality theme and provides explicit understanding of what the project will\r\ncreate?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "1 2&3",
+        "1 3&4",
+        "1.2&4",
+        "2.3&4"
+      ],
+      "question": "Which of the following statements are True\r\n1 Quality management is the complete set of quality standards. Procedures and responsibilities for a site or\r\norganization\r\n2 Quality planning is about defining products required of the protect with their respective quality criteria\r\nmethods and responsibilities.\r\n3 Quality control focuses on the op rational techniques and activities used to carry out quality inspections.\r\n4 Quality assurance ensures that quality methods are being correctly followed",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Purpose of the product",
+        "Composition",
+        "Project level tolerances",
+        "Quality criteria"
+      ],
+      "question": "Which of the following statements would NOT be included in the Project Product Description?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Project manager",
+        "Project support",
+        "Team Manager",
+        "Project Assurance"
+      ],
+      "question": "In the PRINCE2 Quality review technique, who would most likely carry out the role of administrator",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Executive",
+        "Corporate or Programmer Management",
+        "Senior User",
+        "Project Assurance"
+      ],
+      "question": "Which role is responsible for providing the customers quality expectations and acceptance criteria for the\r\nproject?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Plan",
+        "Quality Register",
+        "Project Product Description",
+        "Product Description"
+      ],
+      "question": "Which management product defines the detailed nature purpose and function of a product?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "It captures and maintains al relevant informant on identified threats and opportunists",
+        "It documents the r6k tolerances",
+        "It documents the approach to risk",
+        "It identifies responsible towards risk for the project"
+      ],
+      "question": "Which of the following statements is False regarding the Risk Management Strategy'?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Identify, Assess, Resource, Implement",
+        "Identify, Evaluate, Resource, Implement",
+        "Identify, Assess, Plan, Implement",
+        "Identify, Evaluate, Plan, Implement"
+      ],
+      "question": "There are four steps in the Risk Management procedure, what are they?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Reduce",
+        "Share",
+        "Reject",
+        "Enhance"
+      ],
+      "question": "Which of the following risk responses can be used for either an opportunity or a threat'?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "A"
+      ],
+      "options": [
+        "Issue Report",
+        "Highlight report",
+        "Lessons Report",
+        "End Stage Report"
+      ],
+      "question": "Which of the following reports does not contain any information on risk?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Best placed to keep an eye on the risk",
+        "Carry out the response actions to a risk",
+        "Responsible for management, mentoring and control of al aspects of a risk",
+        "Reports to the project manager regularly on the status of a risk"
+      ],
+      "question": "Which of the following statements best describes what a risk owner is?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Project Support",
+        "Project Manager",
+        "Team Manager",
+        "Project Assurance"
+      ],
+      "question": "Who is responsible for reviewing the risk management practices to ensure they are in line with the project's risk\r\nmanagement strategy?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Legislation",
+        "Corporate Strategy",
+        "Risks",
+        "Mandate"
+      ],
+      "question": "Starting Up a project is triggered by which of the following?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Corporate or Programmer Management",
+        "The Project Board",
+        "The Executive",
+        "Project Assurance"
+      ],
+      "question": "Who is responsible for appointing the Project Manager?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Design and appoint the Project Management Team",
+        "Prepare the outline business case",
+        "Select the project approach and assemble the project brief",
+        "Plan the initiation stage"
+      ],
+      "question": "During which of the following activities is the Project Product Description created?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "B"
+      ],
+      "options": [
+        "Understanding the scope of what is to be done and the products to be delivered",
+        "Understanding the roles and responsible of the Project Management Team",
+        "Understand how quality required will be achieved",
+        "Understand how progress will be monitored and controlled"
+      ],
+      "question": "Winch of the following is NOT an objective of Initiating a Project?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "C"
+      ],
+      "options": [
+        "Post project review plan",
+        "Risk Register",
+        "Benefits Review plan",
+        "Issue Register"
+      ],
+      "question": "Which other management product is created when the Business case is updated during\r\nInitiating a Project'?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    },
+    {
+      "explanation": "",
+      "section": "",
+      "answer": [
+        "D"
+      ],
+      "options": [
+        "Project Manager",
+        "Team Manager",
+        "Project Assurance",
+        "Project Support"
+      ],
+      "question": "Who is responsible for the initial creation of the Configuration Item records?",
+      "level": "100",
+      "reference": "",
+      "type": "mcq",
+      "answerMode": "single"
+    }
+  ]
+}
